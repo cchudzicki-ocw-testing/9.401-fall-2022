@@ -1,0 +1,18 @@
+leftnav:
+- identifier: 89b22769-e5d0-4a18-9eeb-549eb9970eef
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: aa3d9f80-b60a-49e9-a38b-56e6d8291a35
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
+  name: 'Week 1: The Challenge'
+  pageRef: /pages/week-1-the-challenge
+  weight: 30
+- identifier: 7787d088-08d1-4e8c-beff-017fb0022ce5
+  name: Week 1 Response Paper
+  pageRef: /pages/week-1-response-paper
+  parent: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
+  weight: 10
