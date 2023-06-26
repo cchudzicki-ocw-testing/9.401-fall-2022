@@ -7,7 +7,7 @@ uid: ef2a4c31-817c-4b0c-b411-a357b4366fcf
 ---
 ### Dynamic executable papers; FAIR open-source processing pipelines
 
-*Practical skills assignment:*
+*Practical skills assignment*
 
 1. Use a tool for making a dynamic executable document (R Markdown; Jupiter Notebook; Matlab Notebook) to write this week's assignment. In your executable document, use your own data (or data from another paper) to make at least one reproducible figure. 
 2. [Zotero has partnered with Retraction Watch](https://www.zotero.org/blog/retracted-item-notifications/) to automatically flag retracted papers in a user's repository. Download [Zotero](https://www.zotero.org/) if you do not already have it, and either import a repository from your current citation manager or manually import a few papers of your choice if you do not use a citation manager. Look through one of your repositories, and see if any papers are flagged as retracted. If not, add a retracted paper (you can find many on [Retraction Watch's database](http://retractiondatabase.org/RetractionSearch.aspx)) to the repository. Is it correctly flagged as retracted? Do you think this flag is noticeable enough to be a useful tool in preventing the use of retracted papers?
@@ -32,12 +32,12 @@ Detecting and responding to mistakes and fraud:
 - A proposal to replace peer review with "Red Teams". An author gave 'red teams' a financial incentive to find errors in a submission-ready manuscript. Why? [Part 1.](http://www.the100.ci/2020/06/29/red-team-part-1/) What happened? [Part 3](http:// http://www.the100.ci/2020/07/01/red-team-part-3/).
 - [The Buck stops nowhere](https://jamesheathers.medium.com/the-buck-stops-nowhere-8284a57c88c9). Blog about being the "Data police", James Heathers 2017
 - [Evidence of Fraud in an Influential Field Experiment About Dishonesty](https://datacolada.org/98) - Aug 2021, DataColada.
-- [The fight against fake-paper factories that churn out sham science](https://www.nature.com/articles/d41586-021-00733-5). Nature News Feature,   
+- [The fight against fake-paper factories that churn out sham science](https://www.nature.com/articles/d41586-021-00733-5). Nature News Feature,    
     23 March 2021.
 - [https://retractionwatch.com/](https://retractionwatch.com/) (I found the FAQ interesting) & [tool](http://retractiondatabase.org/RetractionSearch.aspx) for searching the retraction watch database.
 - [DataColada: Reducing Fraud in Science](https://datacolada.org/40).
 - Notes from [Computational Research Integrity Day 2021](https://copy-shake-paste.blogspot.com/2021/03/computational-research-integrity-2021.html).
 - Schneider, J., Woods, N. D., Proescholdt, R., Fu, Y., & Team, T. (2021, July 29). [Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project.](https://osf.io/preprints/metaarxiv/ms579/) [https://doi.org/10.31222/osf.io/ms579](https://doi.org/10.31222/osf.io/ms579).
-- Serra-Garcia, M., & Gneezy, U. (2021). [Nonreplicable publications are cited more than replicable ones.](https://pubmed.ncbi.nlm.nih.gov/34020944/)*Science advances*, *7*(21), eabd1705.
+- Serra-Garcia, M., & Gneezy, U. (2021). Non-replicable [publications are cited more than replicable ones.](https://pubmed.ncbi.nlm.nih.gov/34020944/)*Science advances*, *7*(21), eabd1705.
 - [A bibliography of papers about retraction.](https://infoqualitylab.org/projects/risrs2020/bibliography/) 
 - Suelzer, E.M., Deal, J., Hanus, K.L. (2020). [Challenges in discovering the retracted status of an article.](https://www.ideals.illinois.edu/bitstream/handle/2142/108367/Thought%20piece-Challenges%20in%20discovering%20the%20retracted%20status%20of%20an%20article.pdf?sequence=2&isAllowed=y)
