@@ -3,7 +3,7 @@ content_type: page
 description: This section includes the challenge, readings, tool, and response paper
   for the week.
 draft: false
-title: 'Week 7: The Challenge'
+title: 'Week 7 Challenge: Results are only accessible to very rich institutions'
 uid: 615012bd-8880-4f8a-93d4-05b6a13cc0b6
 ---
 ## Results are only accessible to very rich institutions
