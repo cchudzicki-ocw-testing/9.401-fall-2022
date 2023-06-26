@@ -19,34 +19,30 @@ leftnav:
   name: 'Week 3: Experiments Cannot be Reproduced by Other Labs'
   pageRef: /pages/week-3-experiments-cannot-be-reproduced-by-other-labs
   weight: 50
-- identifier: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
-  name: 'Week 9: Researchers Are Incentivized to be First, Not Right'
-  pageRef: /pages/week-9-challenge-researchers-are-incentivized-to-be-first-not-right
-  weight: 60
 - identifier: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
   name: 'Week 4: The Literature is Biased'
   pageRef: /pages/week-4-the-challenge
-  weight: 70
+  weight: 60
 - identifier: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
   name: 'Week 5: Mistakes Go Uncaught and Uncorrected'
   pageRef: /pages/week-5-the-challenge
-  weight: 80
+  weight: 70
 - identifier: ed102048-30ba-49b4-8927-3cba3c885822
   name: 'Week 6: Time and Effort are Wasted by Arbitrary Gatekeeping'
   pageRef: /pages/week-6-the-challenge
-  weight: 90
+  weight: 80
 - identifier: 615012bd-8880-4f8a-93d4-05b6a13cc0b6
   name: 'Week 7: Results Are Only Accessible to Rich Institutions'
   pageRef: /pages/week-7-the-challenge
-  weight: 100
+  weight: 90
 - identifier: 269651c6-9356-4b2a-95e4-b998c7f23752
   name: 'Week 8: Scientific Papers are Obsolete'
   pageRef: /pages/week-8-the-challenge
+  weight: 100
+- identifier: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
+  name: 'Week 9: Researchers Are Incentivized to be First, Not Right'
+  pageRef: /pages/week-9-challenge-researchers-are-incentivized-to-be-first-not-right
   weight: 110
-- identifier: 06bbbd87-5c59-49f5-b4cc-2ca70b032ee8
-  name: 'Week 8: Response Paper'
-  pageRef: /pages/week-8-response-paper
-  weight: 120
 - identifier: 6724d0d9-0dce-4061-bd31-6e1d3a943de7
   name: Week 1 Response Paper
   pageRef: /pages/week-1-response-paper2
@@ -112,8 +108,23 @@ leftnav:
   pageRef: /pages/week-8-the-tool
   parent: 269651c6-9356-4b2a-95e4-b998c7f23752
   weight: 10
+- identifier: 06bbbd87-5c59-49f5-b4cc-2ca70b032ee8
+  name: 'Week 8: Response Paper'
+  pageRef: /pages/week-8-response-paper
+  parent: 269651c6-9356-4b2a-95e4-b998c7f23752
+  weight: 20
+- identifier: 3e6a722f-5dec-4ed7-962b-516a753f5562
+  name: 'Week 9 Tool: Badges, Transparency Audits, Openness Metrics'
+  pageRef: /pages/week-9-tool-badges-transparency-audits-openness-metrics
+  parent: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
+  weight: 10
 - identifier: 169fb551-7751-47b9-af79-8a1866e35059
   name: 'Week 7: Response Paper'
   pageRef: /pages/week-7-response-paper
   parent: 6feb7316-a869-4b3a-a4ec-9ccc1ee0c2ec
+  weight: 10
+- identifier: f8d5440b-64cf-4c7c-83d2-39c9145fde08
+  name: 'Week 9: Response Paper'
+  pageRef: /pages/week-9-response-paper
+  parent: 3e6a722f-5dec-4ed7-962b-516a753f5562
   weight: 10
