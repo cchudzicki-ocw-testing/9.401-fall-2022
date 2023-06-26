@@ -6,7 +6,7 @@ draft: false
 title: 'Week 7 Challenge: Results are only accessible to very rich institutions'
 uid: 615012bd-8880-4f8a-93d4-05b6a13cc0b6
 ---
-## Results are only accessible to very rich institutions
+## The Challenge: Results are only accessible to very rich institutions
 
 Scientific progress is theoretically a gradual process that involves many researchers building on one another's work. However, subscriptions to journals are only affordable to the world's wealthiest institutions. To make matters worse, between 75% and 90% of publications are in English. These disparities severely limit who has access to scientific knowledge, and who can engage in the cumulative scientific process, hampering the scientific process and creating an unjust system.
 
