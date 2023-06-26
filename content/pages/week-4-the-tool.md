@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 4: The Tool'
+title: 'Week 4 Tool: Pre-registered analysis plans'
 uid: c6afac62-fdcc-4940-9565-0e654a1eca3c
 ---
-## Pre-registered analysis plans
+## The Tool: Pre-registered analysis plans
 
 *Practical skills assignment*
 
@@ -17,7 +17,7 @@ In your response paper, describe what you accomplished in this task, including a
 
 Then, critically evaluate pre-registration of analysis plans as a tool to address experimenter degrees of freedom, and inflated and overconfident effect sizes in the scientific literature.
 
-In part 2 of your response paper Describe what you did, in fulfilling the practical activity as outlined above. 
+In part 2 of your response paper describe what you did, in fulfilling the practical activity as outlined above. 
 
 ### Useful links and resources
 
