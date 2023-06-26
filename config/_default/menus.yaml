@@ -15,10 +15,18 @@ leftnav:
   name: 'Week 2: Data are wasted, lost, and under-used'
   pageRef: /pages/week-1-response-paper
   weight: 40
+- identifier: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
+  name: 'Week 3: Experiments cannot be reproduced by other labs'
+  pageRef: /pages/week-3-experiments-cannot-be-reproduced-by-other-labs
+  weight: 50
 - identifier: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
   name: 'Week 9: Researchers are incentivized to be first, not right'
   pageRef: /pages/week-9-challenge-researchers-are-incentivized-to-be-first-not-right
-  weight: 50
+  weight: 60
+- identifier: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
+  name: 'Week 4: The literature is biased'
+  pageRef: /pages/week-4-the-challenge
+  weight: 70
 - identifier: 6724d0d9-0dce-4061-bd31-6e1d3a943de7
   name: Week 1 Response Paper
   pageRef: /pages/week-1-response-paper2
@@ -33,4 +41,24 @@ leftnav:
   name: Week 2 Response Paper
   pageRef: /pages/week-2-response-paper
   parent: 7787d088-08d1-4e8c-beff-017fb0022ce5
+  weight: 20
+- identifier: 4434ac86-6aab-4ad4-8ceb-dab0c6a28505
+  name: 'Week 3 Tool: FAIR protocols & methodology reporting standards'
+  pageRef: /pages/week-3-the-tool
+  parent: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
+  weight: 10
+- identifier: e0e71722-6ceb-4988-b255-a3d18076f6cc
+  name: 'Week 3: Response Paper'
+  pageRef: /pages/week-3-response-paper
+  parent: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
+  weight: 20
+- identifier: c6afac62-fdcc-4940-9565-0e654a1eca3c
+  name: 'Week 4 Tool: Pre-registered analysis plans'
+  pageRef: /pages/week-4-the-tool
+  parent: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
+  weight: 10
+- identifier: 4259be98-f6ff-4888-82e4-6cb4cb204ec9
+  name: 'Week 4: Response Paper'
+  pageRef: /pages/week-4-response-paper
+  parent: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
   weight: 20
