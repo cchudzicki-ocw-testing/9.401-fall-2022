@@ -12,4 +12,4 @@ uid: 4259be98-f6ff-4888-82e4-6cb4cb204ec9
     - Identify a journal in your field that accepts submissions of Registered Reports (peer-reviewed pre-registrations)
 3. *Critical evaluation of the tool*. What is the promise of this tool in addressing this challenge? What are the biggest obstacles? 
 
-This response paper should be about 1-page long, single-spaced. Total points: 3.
+*This response paper should be about 1-page long, single-spaced. Total points: 3.*
