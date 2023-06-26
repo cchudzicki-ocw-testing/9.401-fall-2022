@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 7: The Tool'
+title: 'Week 7 Tool: Open Access and alternative publishing agreements'
 uid: 6feb7316-a869-4b3a-a4ec-9ccc1ee0c2ec
 ---
-## Open Access and alternative publishing agreements
+## The Tool: Open Access and alternative publishing agreements
 
 *Practical skills assignment*
 
