@@ -31,6 +31,10 @@ leftnav:
   name: 'Week 5: Mistakes Go Uncaught and Uncorrected'
   pageRef: /pages/week-5-the-challenge
   weight: 80
+- identifier: ed102048-30ba-49b4-8927-3cba3c885822
+  name: 'Week 6: Time and Effort are Wasted by Arbitrary Gatekeeping'
+  pageRef: /pages/week-6-the-challenge
+  weight: 90
 - identifier: 6724d0d9-0dce-4061-bd31-6e1d3a943de7
   name: Week 1 Response Paper
   pageRef: /pages/week-1-response-paper2
@@ -75,4 +79,14 @@ leftnav:
   name: 'Week 5: Response Paper'
   pageRef: /pages/week-5-response-paper
   parent: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
+  weight: 20
+- identifier: 51e422d7-0cd0-4ea4-bebc-ba652b2fefa1
+  name: 'Week 6 Tool: Preprints and Post-publication review'
+  pageRef: /pages/week-6-the-tool
+  parent: ed102048-30ba-49b4-8927-3cba3c885822
+  weight: 10
+- identifier: eb38a208-30bc-4845-b742-dbfa1022c619
+  name: 'Week 6: Response Paper'
+  pageRef: /pages/week-6-response-paper
+  parent: ed102048-30ba-49b4-8927-3cba3c885822
   weight: 20
