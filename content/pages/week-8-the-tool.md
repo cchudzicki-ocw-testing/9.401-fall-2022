@@ -5,7 +5,7 @@ draft: false
 title: 'Week 8: The Tool'
 uid: 238a336a-968c-48dc-90ed-7d345f0844d8
 ---
-## Alternatives to traditional research papers
+## Alternative formats for scientific communication
 
 *Practical skills assignment*
 
