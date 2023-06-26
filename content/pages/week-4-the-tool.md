@@ -7,7 +7,7 @@ uid: c6afac62-fdcc-4940-9565-0e654a1eca3c
 ---
 ## Pre-registered analysis plans
 
-*Practical skills assignment:*
+*Practical skills assignment*
 
 1. Find a paper in your field that was pre-registered. Where was the pre-registration stored? Was it easy to find, from the paper? Compare the pre-registered analyses to the analyses reported in the paper. Did the authors follow their pre-registration? If not, did they make clear where they deviated?
 2. For one of your projects (at any stage from planning to post-publication), find a pre-registration template, or a pre-registration of a reasonably similar study. Spend 30 minutes on an *outline/draft* of a pre-registration. You don't need to complete the pre-registration, but the idea is to learn about the challenges of writing a pre-registration. 
