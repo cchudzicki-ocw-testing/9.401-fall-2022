@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 8: The Tool'
+title: 'Week 8 Tool: Alternative formats for scientific communication'
 uid: 238a336a-968c-48dc-90ed-7d345f0844d8
 ---
-## Alternative formats for scientific communication
+## The Tool: Alternative formats for scientific communication
 
 *Practical skills assignment*
 
