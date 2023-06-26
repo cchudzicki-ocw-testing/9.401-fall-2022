@@ -14,4 +14,4 @@ uid: fdaf4434-2019-450c-981f-57ffd8771035
 
 *Critical evaluation of the tool*. What is the promise of this tool in addressing this challenge? What are the biggest obstacles? 
 
-This response paper should be about 1-page long, single-spaced. Total points: 3.
+*This response paper should be about 1-page long, single-spaced. Total points: 3.*
