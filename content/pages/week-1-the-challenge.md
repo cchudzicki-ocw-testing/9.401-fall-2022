@@ -2,14 +2,14 @@
 content_type: page
 description: This section contains information and readings for the week.
 draft: false
-title: 'Week 1: The Challenge'
+title: 'Week 1: What are we trying to do here?'
 uid: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
 ---
-## **What are we trying to do here?**
+## **The Challenge**
 
-We have chosen to be here, to spend our time and energy doing scientific research. Many of us have idealistic motivations and aspirations: we want to make true discoveries, build cumulative knowledge, and translate this knowledge into social goods like medicines, devices, or policies.  Yet in reality, scientists have often failed to live up to these aspirations, because of bad habits and bad institutions. How can we 'reform' science? Can we critique science and make it better from within? Can we do it without becoming nihlists, without breaking what works, without destroying public trust? 
+We have chosen to be here, to spend our time and energy doing scientific research. Many of us have idealistic motivations and aspirations: we want to make true discoveries, build cumulative knowledge, and translate this knowledge into social goods like medicines, devices, or policies.  Yet in reality, scientists have often failed to live up to these aspirations, because of bad habits and bad institutions. How can we 'reform' science? Can we critique science and make it better from within? Can we do it without becoming nihilists, without breaking what works, without destroying public trust? 
 
-**Readings before Day 1:**
+### **Readings before Day 1**
 
 Oreskes, N. (2021). [Ch. 1 from *Why trust science?*](https://canvas.mit.edu/courses/16735/files/2628811?wrap=1). Princeton University Press.
 
@@ -23,9 +23,9 @@ O'Dea, R (2021) [The next 10 years.](https://www.youtube.com/watch?v=Ov4lJnZ5px0
 
  
 
-**Optional extra**
+### **Optional extra**
 
-de Menard, A.  (2020) [What's Wrong with Social Science and How to Fix It: Reflections After Reading 2578 Papers.](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/) 
+de Menard, A.  (2020) [What's Wrong with Social Science and How to Fix It: Reflections After Reading 2578 Papers.](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 
 [Links to an external site.](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 
