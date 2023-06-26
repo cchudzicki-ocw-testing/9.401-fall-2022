@@ -66,3 +66,13 @@ leftnav:
   pageRef: /pages/week-4-response-paper
   parent: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
   weight: 20
+- identifier: ef2a4c31-817c-4b0c-b411-a357b4366fcf
+  name: 'Week 5 Tool: Dynamic Executable Papers & FAIR Open-source Processing Pipelines'
+  pageRef: /pages/week-5-the-tool
+  parent: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
+  weight: 10
+- identifier: fdaf4434-2019-450c-981f-57ffd8771035
+  name: 'Week 5: Response Paper'
+  pageRef: /pages/week-5-response-paper
+  parent: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
+  weight: 20
