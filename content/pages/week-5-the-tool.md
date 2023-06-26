@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 5: The Tool'
+title: 'Week 5 Tool: Dynamic executable papers and FAIR open-source processing pipelines'
 uid: ef2a4c31-817c-4b0c-b411-a357b4366fcf
 ---
-### Dynamic executable papers; FAIR open-source processing pipelines
+### The Tool: Dynamic executable papers and FAIR open-source processing pipelines
 
 *Practical skills assignment*
 
@@ -32,7 +32,7 @@ Detecting and responding to mistakes and fraud:
 - A proposal to replace peer review with "Red Teams". An author gave 'red teams' a financial incentive to find errors in a submission-ready manuscript. Why? [Part 1.](http://www.the100.ci/2020/06/29/red-team-part-1/) What happened? [Part 3](http:// http://www.the100.ci/2020/07/01/red-team-part-3/).
 - [The Buck stops nowhere](https://jamesheathers.medium.com/the-buck-stops-nowhere-8284a57c88c9). Blog about being the "Data police", James Heathers 2017
 - [Evidence of Fraud in an Influential Field Experiment About Dishonesty](https://datacolada.org/98) - Aug 2021, DataColada.
-- [The fight against fake-paper factories that churn out sham science](https://www.nature.com/articles/d41586-021-00733-5). Nature News Feature,    
+- [The fight against fake-paper factories that churn out sham science](https://www.nature.com/articles/d41586-021-00733-5). Nature News Feature,     
     23 March 2021.
 - [https://retractionwatch.com/](https://retractionwatch.com/) (I found the FAQ interesting) & [tool](http://retractiondatabase.org/RetractionSearch.aspx) for searching the retraction watch database.
 - [DataColada: Reducing Fraud in Science](https://datacolada.org/40).
