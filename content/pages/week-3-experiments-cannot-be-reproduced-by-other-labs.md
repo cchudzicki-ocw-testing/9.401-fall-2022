@@ -3,10 +3,10 @@ content_type: page
 description: This section describes the challenge, readings, tool(s), and response
   paper for the week.
 draft: false
-title: 'Week 3: The Challenge'
+title: 'Week 3 Challenge: Experiments cannot be reproduced by other labs'
 uid: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
 ---
-## Experiments cannot be reproduced by other labs
+## The Challenge: Experiments cannot be reproduced by other labs
 
 A defining feature of scientific knowledge is that it is replicable: another scientist should be able to repeat the procedure and re-generate the same results. Yet in reality, there are many obstacles to replication. The first obstacle is often: published procedures are not described sufficiently, to allow another scientist to reproduce them. Other obstacles to replication will be discussed in later classes (e.g. experimenter degrees of freedom and publication bias mean that published results offer an inflated estimate of effect sizes; professional incentives for scientists often don't reward reproducing or being reproducible). Today we focus on the challenge of how to make scientific procedures reproducible. Everyone should read the resources under 'everyone'; after that please read the additional readings most relevant to you.
 
