@@ -3,10 +3,10 @@ content_type: page
 description: This section describes the challenge, readings, tool(s), and response
   paper for the week.
 draft: false
-title: 'Week 2: The Challenge'
+title: 'Week 2 Challenge: Data are wasted, lost, and under-used'
 uid: 7787d088-08d1-4e8c-beff-017fb0022ce5
 ---
-## Data are wasted, lost, and under-used
+## The Challenge: Data are wasted, lost, and under-used
 
 We want the data we collect to be used to make scientific advances. Ideally, we want to make and publish these discoveries ourselves. But eventually, there are many reasons to hope others will be able to use the data as well, in order to aggregate into larger datasets, as foundations for new studies, and/or for new scientific purposes that never even occurred to us. This year, NIH and the White House have both mandated that all scientific data be shared openly at the time of publication. Yet many labs' current practices don't always support easy and responsible data sharing. 
 
