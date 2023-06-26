@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 6: The Tool'
+title: 'Week 6 Tool: Preprints and post-publication review'
 uid: 51e422d7-0cd0-4ea4-bebc-ba652b2fefa1
 ---
-## Preprints and post-publication review
+## The Tool: Preprints and post-publication review
 
 *Practical skills assignment*
 
