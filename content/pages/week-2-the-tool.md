@@ -5,9 +5,9 @@ draft: false
 title: 'Week 2: The Tool'
 uid: 6f6af34a-693e-4fbe-840c-e2b2a24644a0
 ---
-## Findable, Accessible, Interoperable, Reusable (FAIR) Data sharing.
+## Findable, Accessible, Interoperable, Reusable (FAIR) Data sharing
 
-### Practical skills assignment
+*Practical skills assignment*
 
 1. Find a private (not already publicly shared) dataset you have recently created or used, and evaluate it against the recommendations in Section 13.2 of [Chapter 13 Project management](https://experimentology.io/13-management), in *Experimentology*. Which recommendations are fulfilled? What needs work?
 2. Find the (meta)data standards and data repositories that are most relevant for your subfield.
@@ -26,14 +26,14 @@ Then provide a critical evaluation of the tool. What is the promise of this data
 - A short [course on how to evaluate the FAIRness of data.](https://www.fosteropenscience.eu/node/2644)
 - A graphical introduction to [Tidy data, in a twitter thread](https://twitter.com/juliesquid/status/1315710359404113920)
 - [Data management start kit,](https://www.go-fair.org/resources/rdm-starter-kit/) a list of resources and websites collected by gofair.org
-- https://orcid.org
-- Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., ... & Mons, B. (2016). [The FAIR Guiding Principles for scientific data management and stewardship.](https://www.nature.com/articles/sdata201618?) Scientific data, 3(1), 1-9.
+- [https://orcid.org](https://orcid.org)
+- Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., … & Mons, B. (2016). [The FAIR Guiding Principles for scientific data management and stewardship.](https://www.nature.com/articles/sdata201618?) Scientific data, 3(1), 1-9.
 
 #### Example Data Standards
 
 - Neurodata without Borders:  [https://www.nwb.org/](https://www.nwb.org/)
-- BIDS: https://bids.neuroimaging.io/
-- GIN: https://g-i-n.net/international-guidelines-library/
+- BIDS: [https://bids.neuroimaging.io/](https://bids.neuroimaging.io/)
+- GIN: [https://g-i-n.net/international-guidelines-library/](https://g-i-n.net/international-guidelines-library/)
 
 #### Example Repositories
 
