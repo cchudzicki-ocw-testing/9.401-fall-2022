@@ -3,7 +3,7 @@ content_type: page
 description: This section includes the challenge, readings, tool, and response paper
   for the week.
 draft: false
-title: 'Week 8: The Challenge'
+title: 'Week 8 Challenge: Scientific papers are obsolete'
 uid: 269651c6-9356-4b2a-95e4-b998c7f23752
 ---
 ## Scientific papers are obsolete
@@ -13,9 +13,8 @@ The modern scientific paper has not changed in the past two hundred years. New 
 ### Readings
 
 - Spitzer S (2018) [Five Principles of Science Communication](https://www.socialsciencespace.com/2018/04/five-principles-of-science-communication/). From SocialScienceSpace blog. 
-- Khoury, C. K., Kisel, Y., Kantar, M., Barber, E., Ricciardi, V., Klirs, C., ... & Novy, A. (2019). [Science–graphic art partnerships to increase research impact.](https://www.nature.com/articles/s42003-019-0516-1) *Communications biology*, *2*(1), 1-5.
-- Hohman F t al (2020)  [Communicating with Interactive Articles.](https://distill.pub/2020/communicating-with-interactive-articles/) [10.23915/distill.00028](https://doi.org/10.23915/distill.00028); And explore some of the examples: 
-    
+- Khoury, C. K., Kisel, Y., Kantar, M., Barber, E., Ricciardi, V., Klirs, C., … & Novy, A. (2019). [Science–graphic art partnerships to increase research impact.](https://www.nature.com/articles/s42003-019-0516-1) *Communications biology*, *2*(1), 1-5.
+- Hohman F t al (2020)  [Communicating with Interactive Articles.](https://distill.pub/2020/communicating-with-interactive-articles/) [10.23915/distill.00028](https://doi.org/10.23915/distill.00028); And explore some of the examples:   
     [https://explorablemultiverse.github.io/#.](https://explorablemultiverse.github.io/#) Use the underlined blue text to see how the graphs etc change with different analysis choices. (It works better if you 'switch to distill layout'.)
 - Chiarella, D., Yarbrough, J., & Jackson, C. A. L. (2020). [Using alt text to make science Twitter more accessible for people with visual impairments.](https://www.nature.com/articles/s41467-020-19640-w) Nature Communications, 11(1), 1-3.
 - [A beautiful museum exhibit about neurons](https://twitter.com/ARBashford/status/1453547341751984132) and the [2019 Winner of Dance your PhD](https://www.youtube.com/watch?v=nUQvJOSCoi4).
