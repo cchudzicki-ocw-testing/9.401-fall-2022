@@ -43,6 +43,18 @@ leftnav:
   name: 'Week 9: Researchers Are Incentivized to be First, Not Right'
   pageRef: /pages/week-9-challenge-researchers-are-incentivized-to-be-first-not-right
   weight: 110
+- identifier: 09b11cae-d3de-424c-b2af-9fe68e047857
+  name: 'Week 10: Who can Re-use What?'
+  pageRef: /pages/week-10-challenge-managing-the-use-of-scientific-products
+  weight: 120
+- identifier: ae391099-222b-4c2a-8296-457788495f31
+  name: 'Week 10 Tool: Collaboration Agreements and Licenses'
+  pageRef: /pages/week-10-tool-collaboration-agreements-and-licenses
+  weight: 130
+- identifier: ac3d07fd-75d8-4b00-b0b6-23c99382323c
+  name: Week 10 Response Paper
+  pageRef: /pages/week-10-response-paper
+  weight: 140
 - identifier: 6724d0d9-0dce-4061-bd31-6e1d3a943de7
   name: Week 1 Response Paper
   pageRef: /pages/week-1-response-paper2
