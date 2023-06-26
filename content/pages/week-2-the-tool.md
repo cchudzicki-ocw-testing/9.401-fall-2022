@@ -24,8 +24,8 @@ Then provide a critical evaluation of the tool. What is the promise of this data
 ### Useful links and resources
 
 - A short [course on how to evaluate the FAIRness of data.](https://www.fosteropenscience.eu/node/2644)
-- A graphical introduction to [Tidy data, in a twitter thread](https://twitter.com/juliesquid/status/1315710359404113920)
-- [Data management start kit,](https://www.go-fair.org/resources/rdm-starter-kit/) a list of resources and websites collected by gofair.org
+- A graphical introduction to [Tidy data, in a twitter thread](https://twitter.com/juliesquid/status/1315710359404113920).
+- [Data management start kit,](https://www.go-fair.org/resources/rdm-starter-kit/) a list of resources and websites collected by gofair.org.
 - [https://orcid.org](https://orcid.org)
 - Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., … & Mons, B. (2016). [The FAIR Guiding Principles for scientific data management and stewardship.](https://www.nature.com/articles/sdata201618?) Scientific data, 3(1), 1-9.
 
@@ -41,7 +41,7 @@ Then provide a critical evaluation of the tool. What is the promise of this data
 - [https://openneuro.org/](https://openneuro.org/)
 - [https://dataverse.harvard.edu/](https://dataverse.harvard.edu/)
 - [https://data.mendeley.com/](https://data.mendeley.com)
-- [https://www.ncbi.nlm.nih.gov/geo/](https://www.ncbi.nlm.nih.gov/geo/) (genomics data repository)
+- [https://www.ncbi.nlm.nih.gov/geo/](https://www.ncbi.nlm.nih.gov/geo/) (genomics data repository).
 - [Figshare](https://figshare.com/)
 - [Databrary](https://nyu.databrary.org/)  
 - [DSpace@ MIT a digital repository for MIT’s research](https://dspace.mit.edu/)
@@ -50,5 +50,5 @@ Then provide a critical evaluation of the tool. What is the promise of this data
 #### Example Data search tools
 
 - [https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/)
-- [https://www.re3data.org/](https://www.re3data.org/) (can browse by subject by clicking browse at the top of the screen)
+- [https://www.re3data.org/](https://www.re3data.org/) (can browse by subject by clicking browse at the top of the screen).
 - [https://catalog.data.gov/dataset](https://catalog.data.gov/dataset)
