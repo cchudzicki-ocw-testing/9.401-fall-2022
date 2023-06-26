@@ -7,7 +7,7 @@ uid: 4434ac86-6aab-4ad4-8ceb-dab0c6a28505
 ---
 ## FAIR protocols; methodology reporting standards
 
-*Practical skills assignment:*
+*Practical skills assignment*
 
 1. Find a paper in your field that describes an experiment. Use the ARRIVE and CONSORT checklists to evaluate how well they communicate their methods and design decisions. What is missing? [https://arriveguidelines.org/sites/arrive/files/documents/ARRIVE%20Compliance%20Questionnaire.pdf](https://arriveguidelines.org/sites/arrive/files/documents/ARRIVE%20Compliance%20Questionnaire.pdf) Note any trouble you have applying these checklists to research in your area.
 2. Find the website or tool that is used for sharing detailed/executable protocols in your discipline (see examples below). Ideally, find an existing template similar to an experiment you have done or are planning to do. Spend 30 minutes beginning to create an experimental protocol in this tool. In response paper answer: How far did you get? What was difficult about the task?
