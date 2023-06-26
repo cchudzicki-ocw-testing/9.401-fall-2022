@@ -3,10 +3,10 @@ content_type: page
 description: This section describes the challenge, readings, tool(s), and response
   paper for the week.
 draft: false
-title: 'Week 3: Experiments cannot be reproduced by other labs'
+title: 'Week 3: The Challenge'
 uid: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
 ---
-## The Challenge
+## Experiments cannot be reproduced by other labs
 
 A defining feature of scientific knowledge is that it is replicable: another scientist should be able to repeat the procedure and re-generate the same results. Yet in reality, there are many obstacles to replication. The first obstacle is often: published procedures are not described sufficiently, to allow another scientist to reproduce them. Other obstacles to replication will be discussed in later classes (e.g. experimenter degrees of freedom and publication bias mean that published results offer an inflated estimate of effect sizes; professional incentives for scientists often don't reward reproducing or being reproducible). Today we focus on the challenge of how to make scientific procedures reproducible. Everyone should read the resources under 'everyone'; after that please read the additional readings most relevant to you.
 
@@ -21,7 +21,7 @@ Errington, T. M. (2019) Slides for [Reproducibility Project: Cancer Biology, Ba
 
 ### Systems Neuroscience
 
-Banga, K., Benson, J., Bonacchi, N., Bruijns, S. A., Campbell, R., Chapuis, G. A., ... & Winter, O. (2022). [Reproducibility of in-vivo electrophysiological measurements in mice](https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3). *bioRxiv*.
+Banga, K., Benson, J., Bonacchi, N., Bruijns, S. A., Campbell, R., Chapuis, G. A., … & Winter, O. (2022). [Reproducibility of in-vivo electrophysiological measurements in mice](https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3). *bioRxiv*.
 
 ### Computational science
 
@@ -31,7 +31,7 @@ Banga, K., Benson, J., Bonacchi, N., Bruijns, S. A., Campbell, R., Chapuis, G. A
 ### Developmental Science
 
 - Gilmore, R. O., & Adolph, K. E. (2017). Video can make behavioural science more reproducible. *Nature human behaviour*, *1*(7), 1-2. [https://www.nature.com/articles/s41562-017-0128](https://www.nature.com/articles/s41562-017-0128)
-- Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., ... & Yurovsky, D. (2017). [A collaborative approach to infant research: Promoting reproducibility, best practices, and theory‐building](https://onlinelibrary.wiley.com/doi/pdf/10.1111/infa.12182). *Infancy*, *22*(4), 421-435. Or watch this talk by Mike Frank: [https://www.youtube.com/watch?v=6KA69DlsYMI](https://www.youtube.com/watch?v=6KA69DlsYMI).
+- Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., … & Yurovsky, D. (2017). [A collaborative approach to infant research: Promoting reproducibility, best practices, and theory‐building](https://onlinelibrary.wiley.com/doi/pdf/10.1111/infa.12182). *Infancy*, *22*(4), 421-435. Or watch this talk by Mike Frank: [https://www.youtube.com/watch?v=6KA69DlsYMI](https://www.youtube.com/watch?v=6KA69DlsYMI).
 
 ### Social Science
 
