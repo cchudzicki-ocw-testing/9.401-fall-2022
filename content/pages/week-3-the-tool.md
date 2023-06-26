@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 3: The Tool'
+title: 'Week 3 Tool: FAIR protocols; methodology reporting standards'
 uid: 4434ac86-6aab-4ad4-8ceb-dab0c6a28505
 ---
-## FAIR protocols; methodology reporting standards
+## The Tool: FAIR protocols; methodology reporting standards
 
 *Practical skills assignment*
 
