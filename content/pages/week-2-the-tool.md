@@ -7,7 +7,7 @@ uid: 6f6af34a-693e-4fbe-840c-e2b2a24644a0
 ---
 ## Findable, Accessible, Interoperable, Reusable (FAIR) Data sharing
 
-*Practical skills assignment*
+*Practical skills assignment:*
 
 1. Find a private (not already publicly shared) dataset you have recently created or used, and evaluate it against the recommendations in Section 13.2 of [Chapter 13 Project management](https://experimentology.io/13-management), in *Experimentology*. Which recommendations are fulfilled? What needs work?
 2. Find the (meta)data standards and data repositories that are most relevant for your subfield.
