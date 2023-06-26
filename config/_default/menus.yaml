@@ -8,32 +8,36 @@ leftnav:
   pageRef: /pages/calendar
   weight: 20
 - identifier: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
-  name: 'Week 1: What are we trying to do here?'
+  name: 'Week 1: What Are we Trying to do Here?'
   pageRef: /pages/week-1-the-challenge
   weight: 30
 - identifier: 7787d088-08d1-4e8c-beff-017fb0022ce5
-  name: 'Week 2: Data are wasted, lost, and under-used'
+  name: 'Week 2: Data Are Wasted, Lost, and Under-used'
   pageRef: /pages/week-1-response-paper
   weight: 40
 - identifier: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
-  name: 'Week 3: Experiments cannot be reproduced by other labs'
+  name: 'Week 3: Experiments Cannot be Reproduced by Other Labs'
   pageRef: /pages/week-3-experiments-cannot-be-reproduced-by-other-labs
   weight: 50
 - identifier: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
-  name: 'Week 9: Researchers are incentivized to be first, not right'
+  name: 'Week 9: Researchers Are Incentivized to be First, Not Right'
   pageRef: /pages/week-9-challenge-researchers-are-incentivized-to-be-first-not-right
   weight: 60
 - identifier: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
-  name: 'Week 4: The literature is biased'
+  name: 'Week 4: The Literature is Biased'
   pageRef: /pages/week-4-the-challenge
   weight: 70
+- identifier: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
+  name: 'Week 5: Mistakes Go Uncaught and Uncorrected'
+  pageRef: /pages/week-5-the-challenge
+  weight: 80
 - identifier: 6724d0d9-0dce-4061-bd31-6e1d3a943de7
   name: Week 1 Response Paper
   pageRef: /pages/week-1-response-paper2
   parent: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
   weight: 10
 - identifier: 6f6af34a-693e-4fbe-840c-e2b2a24644a0
-  name: 'Week 2 Tool: FAIR data sharing'
+  name: 'Week 2 Tool: FAIR Data Sharing'
   pageRef: /pages/week-2-the-tool
   parent: 7787d088-08d1-4e8c-beff-017fb0022ce5
   weight: 10
@@ -43,7 +47,7 @@ leftnav:
   parent: 7787d088-08d1-4e8c-beff-017fb0022ce5
   weight: 20
 - identifier: 4434ac86-6aab-4ad4-8ceb-dab0c6a28505
-  name: 'Week 3 Tool: FAIR protocols & methodology reporting standards'
+  name: 'Week 3 Tool: FAIR Protocols & Methodology Reporting Standards'
   pageRef: /pages/week-3-the-tool
   parent: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
   weight: 10
@@ -53,7 +57,7 @@ leftnav:
   parent: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
   weight: 20
 - identifier: c6afac62-fdcc-4940-9565-0e654a1eca3c
-  name: 'Week 4 Tool: Pre-registered analysis plans'
+  name: 'Week 4 Tool: Pre-registered Analysis Plans'
   pageRef: /pages/week-4-the-tool
   parent: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
   weight: 10
