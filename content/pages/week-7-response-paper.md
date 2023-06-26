@@ -11,6 +11,6 @@ uid: 169fb551-7751-47b9-af79-8a1866e35059
 
 *The Tool: Open access and alternative publishing agreements*. Describe what you did in fulfilling this practical activity, and any snags you encountered. 
 
-Then give your critical evaluation of Open Access publishing models. How will these changes improve science? What are the remaining challenges?
+*Critical evaluation of the tool.* Give your critical evaluation of Open Access publishing models. How will these changes improve science? What are the remaining challenges?
 
-This response paper should be about 1-page long, single-spaced. Total points: 3.
+*This response paper should be about 1-page long, single-spaced. Total points: 3.*
