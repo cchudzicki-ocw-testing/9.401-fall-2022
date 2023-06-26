@@ -2,7 +2,7 @@
 content_type: page
 description: The response paper for the week is described here.
 draft: false
-title: 'Week 1: Response Paper'
+title: 'Week 1: Response paper'
 uid: 7787d088-08d1-4e8c-beff-017fb0022ce5
 ---
 In 1-2 pages, single spaced, answer these questions:
