@@ -47,6 +47,18 @@ leftnav:
   name: 'Week 10: Who Can Re-use What?'
   pageRef: /pages/week-10-challenge-managing-the-use-of-scientific-products
   weight: 120
+- identifier: 4b8e8288-e152-4e7f-9290-01c3a944f5c6
+  name: 'Week 11: The Voices we Don''t Hear'
+  pageRef: /pages/week-11-challenge-the-voices-we-dont-hear
+  weight: 130
+- identifier: aad62042-4c35-4cf4-aafe-4f9b0731cf1a
+  name: 'Week 11 Tool: Citation Audits for Papers and Syllabi'
+  pageRef: /pages/week-11-tool-citation-audits-for-papers-and-syllabi
+  weight: 140
+- identifier: 1acc672c-c539-4a0d-adfc-1c3f8ad468ae
+  name: 'Week 11: Response Paper'
+  pageRef: /pages/week-11-response-paper
+  weight: 150
 - identifier: 6724d0d9-0dce-4061-bd31-6e1d3a943de7
   name: Week 1 Response Paper
   pageRef: /pages/week-1-response-paper2
