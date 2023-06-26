@@ -5,12 +5,14 @@ draft: false
 title: 'Week 7: The Tool'
 uid: 6feb7316-a869-4b3a-a4ec-9ccc1ee0c2ec
 ---
-## Practical skills assignment
+## Open Access and alternative publishing agreements
+
+*Practical skills assignment*
 
 1. Take the course on [Open Access Publishing.](https://www.fosteropenscience.eu/node/2331) at fosteropenscience.edu
-2. Use the Plan-S [Journal Checker Tool.](https://journalcheckertool.org), to check the compliance of the last five papers that were published by your lab. If you aren't in a lab, check the last five scientific papers you were assigned to read for anything except this class. Also for each of these papers, check the journal's website for the APC policy - how much would an author have to pay to make a paper in this journal Open Access, right now?
+2. Use the Plan-S [Journal Checker Tool](https://journalcheckertool.org) to check the compliance of the last five papers that were published by your lab. If you aren't in a lab, check the last five scientific papers you were assigned to read for anything except this class. Also for each of these papers, check the journal's website for the APC policy. How much would an author have to pay to make a paper in this journal Open Access, right now?
 3. Find a paper (not by you or your own lab) that was published 'Green Open Access' (self-archived by the author, freely available in the last submitted version, and possibly after an embargo period). Can you get access to both the free and the published paywalled versions? Where? How do they differ?
-4. Look up the Google Scholar profile of a senior scientist whose work you know well. Are all of their papers compliant with funder mandates for open access, according to Google Scholar?
+4. Look up the Google Scholar profile of a senior scientist whose work you know well. Are all of their papers compliant with funder mandates for Open Access, according to Google Scholar?
 
 In your response paper, describe what you did in fulfilling this practical activity, and any snags you encountered. 
 
