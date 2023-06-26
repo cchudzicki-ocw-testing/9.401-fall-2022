@@ -9,10 +9,10 @@ uid: 4434ac86-6aab-4ad4-8ceb-dab0c6a28505
 
 ### Practical Assignment
 
-1. Find a paper in your field which describes an experiment. Use the ARRIVE and CONSORT checklist to evaluate how well they communicate their methods and design decisions. What is missing? [https://arriveguidelines.org/sites/arrive/files/documents/ARRIVE%20Compliance%20Questionnaire.pdf](https://arriveguidelines.org/sites/arrive/files/documents/ARRIVE%20Compliance%20Questionnaire.pdf) Note any trouble you have applying these checklists to research in your area.
+1. Find a paper in your field that describes an experiment. Use the ARRIVE and CONSORT checklists to evaluate how well they communicate their methods and design decisions. What is missing? [https://arriveguidelines.org/sites/arrive/files/documents/ARRIVE%20Compliance%20Questionnaire.pdf](https://arriveguidelines.org/sites/arrive/files/documents/ARRIVE%20Compliance%20Questionnaire.pdf) Note any trouble you have applying these checklists to research in your area.
 2. Find the website or tool that is used for sharing detailed/executable protocols in your discipline (see examples below). Ideally, find an existing template similar to an experiment you have done or are planning to do. Spend 30 minutes beginning to create an experimental protocol in this tool. In response paper answer: How far did you get? What was difficult about the task?
 
-In your response paper, describe what you accomplished in these tasks, and any snags you hit.
+In your response paper, describe what you accomplished in these tasks and any snags you hit.
 
 Then, critically evaluate these tools: will they address the obstacles to repeatability in your area of science? What else is needed? 
 
@@ -27,7 +27,7 @@ Then, critically evaluate these tools: will they address the obstacles to repeat
 - [Videos of workshop on](https://www.youtube.com/watch?v=kzUtpDBo8wk) how to improve reproducibility.
 - Repository of scales used in Psychology: [https://osf.io/5zb8p/](https://osf.io/5zb8p/).
 - Collection of articles about reproducibility: [https://www.nature.com/collections/prbfkwmwvz/](https://www.nature.com/collections/prbfkwmwvz/).
-- [https://www.datajoint.org/](https://www.datajoint.org/) 
+- [https://www.datajoint.org/](https://www.datajoint.org/)
 - [https://www.nc3rs.org.uk/experimental-design-assistant-eda](https://www.nc3rs.org.uk/experimental-design-assistant-eda)
 - Interview with Teytelman where he talks about the obstacles to uptake of protocols: [https://theplosblog.plos.org/2021/03/interview-protocols-io/](https://theplosblog.plos.org/2021/03/interview-protocols-io/).
 - [A slate article about how personal and ugly](https://slate.com/technology/2014/07/replication-controversy-in-psychology-bullying-file-drawer-effect-blog-posts-repligate.html) the controversies about replication can get. This story is about a psychology experiment about moral priming, and the controversy was called "#repligate". 
