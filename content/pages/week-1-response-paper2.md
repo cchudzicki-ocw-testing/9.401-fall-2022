@@ -5,8 +5,6 @@ draft: false
 title: 'Week 1: Response paper'
 uid: 6724d0d9-0dce-4061-bd31-6e1d3a943de7
 ---
-In a 1-2 page, single-spaced paper, answer the following questions:
-
 Intake questions:
 
 - What name would you like us to call you? How do you pronounce it? (e.g., Ashley, 'ASH-LEE'); If you would like to specify your preferred pronouns, please do so here (e.g., they/she).
@@ -21,4 +19,4 @@ For the Day 1 discussion, in light of the readings:
 - In general, do you believe the claims of scientists in disciplines about which you have no expertise? Why?
 - In this class, we are going to discuss ways that scientists, and scientific institutions, have failed to live up to our aspirations. What is the difference between productive, healthy critique which is necessary for science, versus doubt-mongering intended to both weaken public trust in science and make scientists defensive and closed to skeptical inquiry?
 
-Total Points: 3
+Total points: 3
