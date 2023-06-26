@@ -3,10 +3,10 @@ content_type: page
 description: This section describes the challenge, readings, tool(s), and response
   paper for the week.
 draft: false
-title: 'Week 1: The Challenge'
+title: 'Week 1 Challenge: What are we trying to do here?'
 uid: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
 ---
-## What are we trying to do here?
+## The Challenge: What are we trying to do here?
 
 We have chosen to be here, to spend our time and energy doing scientific research. Many of us have idealistic motivations and aspirations: we want to make true discoveries, build cumulative knowledge, and translate this knowledge into social goods like medicines, devices, or policies. Yet in reality, scientists have often failed to live up to these aspirations, because of bad habits and bad institutions. How can we 'reform' science? Can we critique science and make it better from within? Can we do it without becoming nihilists, without breaking what works, without destroying public trust? 
 
