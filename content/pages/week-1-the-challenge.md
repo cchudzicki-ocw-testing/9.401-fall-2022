@@ -23,5 +23,3 @@ Optional extra reading: 
 de Menard, A. (2020) [What's Wrong with Social Science and How to Fix It: Reflections After Reading 2578 Papers.](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 
 de Menard writes: "Criticizing *bad science from an abstract, 10000-foot view is pleasant: you hear about some stuff that doesn't replicate, some methodologies that seem a bit silly. "They should improve their methods", "p-hacking is bad", "we must change the incentives", you declare Zeuslike from your throne in the clouds, and then go on with your day. But actually diving into the sea of trash that is social science gives you a more tangible perspective, a more visceral revulsion, and perhaps even a sense of Lovecraftian awe at the sheer magnitude of it all: a vast landfill—a great agglomeration of garbage extending as far as the eye can see, effluvious waves crashing and throwing up a foul foam of p=0.049 papers. As you walk up to the diving platform, the deformed attendant hands you a pair of flippers. Noticing your reticence, he gives a subtle nod as if to say: "come on then, jump in"."*
-
-## Week 1: Response Paper
