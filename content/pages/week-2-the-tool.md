@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 2: The Tool'
+title: 'Week 2 Tool: FAIR data sharing'
 uid: 6f6af34a-693e-4fbe-840c-e2b2a24644a0
 ---
-## Findable, Accessible, Interoperable, Reusable (FAIR) Data sharing
+## The Tool: Findable, Accessible, Interoperable, Reusable (FAIR) data sharing
 
 *Practical skills assignment*
 
