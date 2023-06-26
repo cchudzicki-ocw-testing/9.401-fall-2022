@@ -19,6 +19,4 @@ For the Day 1 discussion, in light of the readings:
 - In general, do you believe the claims of scientists in disciplines about which you have no expertise? Why?
 - In this class, we are going to discuss ways that scientists, and scientific institutions, have failed to live up to our aspirations. What is the difference between productive, healthy critique which is necessary for science, versus doubt-mongering intended to both weaken public trust in science and make scientists defensive and closed to skeptical inquiry?
 
-*This response paper should be 1-2 pages long, single-spaced.* 
-
-*Total points: 3.*
+*This response paper should be 1-2 pages long, single-spaced. Total points: 3.*
