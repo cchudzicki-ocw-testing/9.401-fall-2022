@@ -7,7 +7,7 @@ uid: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
 ---
 ## **The Challenge**
 
-We have chosen to be here, to spend our time and energy doing scientific research. Many of us have idealistic motivations and aspirations: we want to make true discoveries, build cumulative knowledge, and translate this knowledge into social goods like medicines, devices, or policies.  Yet in reality, scientists have often failed to live up to these aspirations, because of bad habits and bad institutions. How can we 'reform' science? Can we critique science and make it better from within? Can we do it without becoming nihilists, without breaking what works, without destroying public trust? 
+We have chosen to be here, to spend our time and energy doing scientific research. Many of us have idealistic motivations and aspirations: we want to make true discoveries, build cumulative knowledge, and translate this knowledge into social goods like medicines, devices, or policies. Yet in reality, scientists have often failed to live up to these aspirations, because of bad habits and bad institutions. How can we 'reform' science? Can we critique science and make it better from within? Can we do it without becoming nihilists, without breaking what works, without destroying public trust? 
 
 ### **Readings before Day 1**
 
