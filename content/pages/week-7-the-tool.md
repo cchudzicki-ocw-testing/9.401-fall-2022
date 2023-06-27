@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 7 Tool: Open Access and alternative publishing agreements'
+title: 'Week 7 Tool: Open Access and Alternative Publishing Agreements'
 uid: 6feb7316-a869-4b3a-a4ec-9ccc1ee0c2ec
 ---
-## The Tool: Open Access and alternative publishing agreements
+## The Tool
 
 *Practical skills assignment*
 
@@ -18,7 +18,7 @@ In your response paper, describe what you did in fulfilling this practical activ
 
 Then give your critical evaluation of Open Access publishing models. How will these changes improve science? What are the remaining challenges?
 
-## Useful links and resources
+## Useful Links and Resources
 
 - [PLOS: Public Library of Science](https://plos.org/about/) (publisher).
 - [Open-access publisher PLOS pushes to extend clout beyond biomedicine](https://www.nature.com/articles/d41586-020-01907-3), Nature NEWS, May 2021.
