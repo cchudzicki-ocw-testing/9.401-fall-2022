@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: This page give information about the class final project.
+description: This page provides information about the final project.
 draft: false
 title: 'Week 12: Final Project'
 uid: 4a457d8d-430a-4342-8f6b-a030119c681f
