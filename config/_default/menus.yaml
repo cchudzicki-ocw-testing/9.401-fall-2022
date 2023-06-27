@@ -44,11 +44,11 @@ leftnav:
   pageRef: /pages/week-9-challenge-researchers-are-incentivized-to-be-first-not-right
   weight: 110
 - identifier: 09b11cae-d3de-424c-b2af-9fe68e047857
-  name: 'Week 10: Who Can Re-use What?'
+  name: 'Week 10: Who Can Re-Use What?'
   pageRef: /pages/week-10-challenge-managing-the-use-of-scientific-products
   weight: 120
 - identifier: 4b8e8288-e152-4e7f-9290-01c3a944f5c6
-  name: 'Week 11: The Voices we Don''t Hear'
+  name: 'Week 11: The Voices We Don''t Hear'
   pageRef: /pages/week-11-challenge-the-voices-we-dont-hear
   weight: 130
 - identifier: 42e568ae-4a30-4bf9-9653-df35db3933ff
@@ -76,7 +76,7 @@ leftnav:
   parent: 7787d088-08d1-4e8c-beff-017fb0022ce5
   weight: 20
 - identifier: 4434ac86-6aab-4ad4-8ceb-dab0c6a28505
-  name: 'Week 3 Tool: FAIR Protocols & Methodology Reporting Standards'
+  name: 'Week 3 Tool: FAIR Protocols; Methodology Reporting Standards'
   pageRef: /pages/week-3-the-tool
   parent: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
   weight: 10
@@ -106,7 +106,7 @@ leftnav:
   parent: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
   weight: 20
 - identifier: 51e422d7-0cd0-4ea4-bebc-ba652b2fefa1
-  name: 'Week 6 Tool: Preprints and Post-publication review'
+  name: 'Week 6 Tool: Preprints and Post-publication Review'
   pageRef: /pages/week-6-the-tool
   parent: ed102048-30ba-49b4-8927-3cba3c885822
   weight: 10
