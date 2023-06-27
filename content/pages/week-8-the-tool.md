@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 8 Tool: Alternative formats for scientific communication'
+title: 'Week 8 Tool: Alternative Formats for Scientific Communication'
 uid: 238a336a-968c-48dc-90ed-7d345f0844d8
 ---
-## The Tool: Alternative formats for scientific communication
+## The Tool
 
 *Practical skills assignment*
 
@@ -14,7 +14,7 @@ uid: 238a336a-968c-48dc-90ed-7d345f0844d8
 3. Find a figure or image on your, or your lab's, website or social media feed that doesn't have [Alt Text (image description)](https://www.nature.com/articles/s41467-020-19640-w). Draft [good Alt Text](https://help.siteimprove.com/support/solutions/articles/80000863904) (or actually add it!)
 4. For a paper you know well, draft one of the following: an interactive executable paper, a cartoon paper, a video abstract, a 'two-minute paper', a podcast, an oral story, a Twitter thread OR a blog post. This can be a draft; you're not required to make a finished project. Attach your product with your response paper. Explicitly say who is your [intended audience](https://www.nature.com/articles/s42003-019-0516-1). 
 
-### Useful links and resources
+### Useful Links and Resources
 
 - [https://www.socialsciencespace.com/2020/07/seeing-social-science-bites-podcasts-in-a-new-way%E2%80%8B%E2%80%8B/](https://www.socialsciencespace.com/2020/07/seeing-social-science-bites-podcasts-in-a-new-way%E2%80%8B%E2%80%8B/)
 - [Journal of visualized experiments](https://www.jove.com).
