@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 4 Tool: Pre-registered analysis plans'
+title: 'Week 4 Tool: Pre-registered Analysis Plans'
 uid: c6afac62-fdcc-4940-9565-0e654a1eca3c
 ---
-## The Tool: Pre-registered analysis plans
+## The Tool
 
 *Practical skills assignment*
 
@@ -19,7 +19,7 @@ Then, critically evaluate pre-registration of analysis plans as a tool to addres
 
 In part 2 of your response paper describe what you did, in fulfilling the practical activity as outlined above. 
 
-### Useful links and resources
+### Useful Links and Resources
 
 - [How to pre-register: a Practical Guide](https://osf.io/2vu7m/)
 - [A guide to registered reports](https://www.cos.io/initiatives/registered-reports)
