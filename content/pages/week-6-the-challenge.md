@@ -12,7 +12,7 @@ uid: ed102048-30ba-49b4-8927-3cba3c885822
 
 Scientists communicate findings through publications in peer-reviewed journals.  However, this process is slow and prone to biases as it relies heavily on existing social networks of scientists. It also relies on the unpaid labor of researchers who are not incentivized to write thorough or well-thought-out reviews, which can lead to inconsistent or unhelpful reviews. Peer review can also be biased by the status, institution, or demographics of the authors.  This process hampers scientific progress. To combat some of these issues, scholars have begun to post pre-prints which allows researchers to post a copy of their paper at any stage. However, this can lead to public dissemination of findings that have not been confirmed by other scientists. All of this came to a dramatic and explosive point in the controversies about preprints and pandemic research. We will consider challenges associated with peer review, and tools designed to hold on to the good parts while jettisoning the bad.
 
-### Resources
+### Readings
 
 - [Peer review isn't working](https://everythinghertz.com/159), Everything Hertz Podcast episode 159, with Saloni Dattani.
 - A Twitter thread on [evidence of status bias in peer review](https://twitter.com/BrianNosek/status/1568270176847552512).
