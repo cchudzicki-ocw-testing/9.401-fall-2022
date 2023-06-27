@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 3 Tool: FAIR protocols; methodology reporting standards'
+title: 'Week 3 Tool: FAIR Protocols; Methodology Reporting Standards'
 uid: 4434ac86-6aab-4ad4-8ceb-dab0c6a28505
 ---
-## The Tool: FAIR protocols; methodology reporting standards
+## The Tool
 
 *Practical skills assignment*
 
@@ -16,7 +16,7 @@ In your response paper, describe what you accomplished in these tasks and any sn
 
 Then, critically evaluate these tools: will they address the obstacles to repeatability in your area of science? What else is needed? 
 
-### Useful links and resources
+### Useful Links and Resources
 
 - Tools for shared protocols:
     - Biological sciences: [Protocols.io](https://www.protocols.io), [ProtocolExchange](https://protocolexchange.researchsquare.com), & [Protocol-online](http://www.protocol-online.org).
