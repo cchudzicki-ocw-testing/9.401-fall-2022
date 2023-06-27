@@ -2,7 +2,7 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 9 Tool: Badges, transparency audits, openness metrics'
+title: 'Week 9 Tool: Badges, Transparency Audits, Openness Metrics'
 uid: 3e6a722f-5dec-4ed7-962b-516a753f5562
 ---
 ## The Tool
