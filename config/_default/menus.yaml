@@ -51,11 +51,20 @@ leftnav:
   name: 'Week 11: The Voices we Don''t Hear'
   pageRef: /pages/week-11-challenge-the-voices-we-dont-hear
   weight: 130
+- identifier: 42e568ae-4a30-4bf9-9653-df35db3933ff
+  name: 'Week 12: Basic Science Does Not Generalize to the Real World'
+  pageRef: /pages/week-12-challenge-basic-science-does-not-generalize-to-the-real-world
+  weight: 140
 - identifier: 6724d0d9-0dce-4061-bd31-6e1d3a943de7
   name: Week 1 Response Paper
   pageRef: /pages/week-1-response-paper2
   parent: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
   weight: 10
+- identifier: 9a818699-b251-437d-9cd5-c9d99ab85a33
+  name: 'Week 1: Oral Presentations'
+  pageRef: /pages/week-1-oral-presentations
+  parent: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
+  weight: 20
 - identifier: 6f6af34a-693e-4fbe-840c-e2b2a24644a0
   name: 'Week 2 Tool: FAIR Data Sharing'
   pageRef: /pages/week-2-the-tool
@@ -156,3 +165,8 @@ leftnav:
   pageRef: /pages/week-11-response-paper
   parent: 4b8e8288-e152-4e7f-9290-01c3a944f5c6
   weight: 20
+- identifier: 4a457d8d-430a-4342-8f6b-a030119c681f
+  name: 'Week 12: Final Project'
+  pageRef: /pages/week-12-final-project
+  parent: 42e568ae-4a30-4bf9-9653-df35db3933ff
+  weight: 10
