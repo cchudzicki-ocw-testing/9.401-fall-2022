@@ -3,10 +3,10 @@ content_type: page
 description: This section includes the challenge, readings, tool, and response paper
   for the week.
 draft: false
-title: 'Week 5 Challenge: Mistakes go uncaught and uncorrected'
+title: 'Week 5 Challenge: Mistakes Go Uncaught and Uncorrected'
 uid: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
 ---
-## The Challenge: Mistakes go uncaught and uncorrected
+## The Challenge
 
 The scientific process is supposed to accumulate better information and identify and discard mistakes and false beliefs. Incorrect information or interpretations can be introduced into the literature and persist for a while; but ideally, these errors will be found and weeded out. This week, we will talk about how mistaken or false information enters the scientific literature, how it can be prevented, how it can be found, and what happens when it is. In a later week, we will also talk about the professional incentives that promote or prevent people from correcting mistakes. 
 
