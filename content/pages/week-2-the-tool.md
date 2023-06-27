@@ -2,10 +2,10 @@
 content_type: page
 description: The tool for the week is described here.
 draft: false
-title: 'Week 2 Tool: FAIR data sharing'
+title: "Week 2 Tool: Findable, Accessible, Interoperable,\_Reusable (FAIR) Data Sharing"
 uid: 6f6af34a-693e-4fbe-840c-e2b2a24644a0
 ---
-## The Tool: Findable, Accessible, Interoperable, Reusable (FAIR) data sharing
+## The Tool
 
 *Practical skills assignment*
 
@@ -21,7 +21,7 @@ In your response paper, describe what you did in fulfilling the practical activi
 
 Then provide a critical evaluation of the tool. What is the promise of this data repositories and data standards in addressing the challenge of lost and wasted data? What are the biggest technical obstacles to data sharing in your subfield? These might include the effort required to develop data standards, to prepare datasets for sharing, or to find data once they have been shared. What are the biggest social obstacles to data sharing in your subfield?
 
-### Useful links and resources
+### Useful Links and Resources
 
 - A short [course on how to evaluate the FAIRness of data.](https://www.fosteropenscience.eu/node/2644)
 - A graphical introduction to [Tidy data, in a twitter thread](https://twitter.com/juliesquid/status/1315710359404113920).
@@ -29,13 +29,13 @@ Then provide a critical evaluation of the tool. What is the promise of this data
 - [https://orcid.org](https://orcid.org)
 - Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., … & Mons, B. (2016). [The FAIR Guiding Principles for scientific data management and stewardship.](https://www.nature.com/articles/sdata201618?) Scientific data, 3(1), 1-9.
 
-#### Example Data Standards
+Example data standards:
 
 - Neurodata without Borders:  [https://www.nwb.org/](https://www.nwb.org/)
 - BIDS: [https://bids.neuroimaging.io/](https://bids.neuroimaging.io/)
 - GIN: [https://g-i-n.net/international-guidelines-library/](https://g-i-n.net/international-guidelines-library/)
 
-#### Example Repositories
+Example repositories:
 
 - [https://dandiarchive.org](https://dandiarchive.org) 
 - [https://openneuro.org/](https://openneuro.org/)
@@ -47,7 +47,7 @@ Then provide a critical evaluation of the tool. What is the promise of this data
 - [DSpace@ MIT a digital repository for MIT’s research](https://dspace.mit.edu/)
 - [Canadian Federated Research Data Repository](https://www.frdr-dfdr.ca/repo/)
 
-#### Example Data search tools
+Example data search tools:
 
 - [https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/)
 - [https://www.re3data.org/](https://www.re3data.org/) (can browse by subject by clicking browse at the top of the screen).
