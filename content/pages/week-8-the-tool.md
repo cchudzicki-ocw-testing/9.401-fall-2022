@@ -19,7 +19,7 @@ uid: 238a336a-968c-48dc-90ed-7d345f0844d8
 - [https://www.socialsciencespace.com/2020/07/seeing-social-science-bites-podcasts-in-a-new-way%E2%80%8B%E2%80%8B/](https://www.socialsciencespace.com/2020/07/seeing-social-science-bites-podcasts-in-a-new-way%E2%80%8B%E2%80%8B/)
 - [Journal of visualized experiments](https://www.jove.com).
 - [OU Library guide for making a successful video abstrac](https://libraries.ou.edu/content/make-video-abstract-your-research)t
-- [Repository of many video abstracts](https://wesharescience.com/all).
+- [Repository of many video abstracts](https://wesharescience.com).
 - [The leading strand](https://www.theleadingstrand.org/#intro): mission is to highlight important research by translating it through visual experiences.
 - Professional Science Communication: [https://www.beyondboundscreative.com/](https://www.beyondboundscreative.com/) ; 
 - [https://significantcommunication.eu/.](https://significantcommunication.eu/)
