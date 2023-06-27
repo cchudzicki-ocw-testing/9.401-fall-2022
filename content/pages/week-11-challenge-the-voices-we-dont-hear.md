@@ -6,7 +6,9 @@ draft: false
 title: "Week 11 Challenge: The Voices We Don\u2019t Hear"
 uid: 4b8e8288-e152-4e7f-9290-01c3a944f5c6
 ---
-## Ideas and scrutiny from some people are undervalued.
+## The Challenge
+
+*Ideas and scrutiny from some people are undervalued.*
 
 Throughout the history of academia, people who hold marginalized identities, including those based on race, ethnicity, gender, LGBTQ status, and disability status, are underrepresented in faculty, post-doctoral, and graduate researcher positions (compared to both the U.S. population and the undergraduate population of colleges and universities).  The problem of underrepresentation goes beyond statistics about employment, many have argued that communities within science, including the open-science community, silence and exclude people with marginalized identities, including BIPOC scholars, women, those with disabilities, those who do not speak English, etc.
 
