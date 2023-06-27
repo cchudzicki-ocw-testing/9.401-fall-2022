@@ -3,22 +3,22 @@ content_type: page
 description: This section describes the challenge, readings, tool(s), and response
   paper for the week.
 draft: false
-title: 'Week 1 Challenge: What are we trying to do here?'
+title: 'Week 1 Challenge: What Are We Trying to Do Here?'
 uid: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
 ---
-## The Challenge: What are we trying to do here?
+## The Challenge
 
 We have chosen to be here, to spend our time and energy doing scientific research. Many of us have idealistic motivations and aspirations: we want to make true discoveries, build cumulative knowledge, and translate this knowledge into social goods like medicines, devices, or policies. Yet in reality, scientists have often failed to live up to these aspirations, because of bad habits and bad institutions. How can we 'reform' science? Can we critique science and make it better from within? Can we do it without becoming nihilists, without breaking what works, without destroying public trust? 
 
-### Readings
+### Readings and Links
 
-To be completed by Day 1:
+*To be completed by Day 1*
 
-- Oreskes, N. (2021). Ch. 1 from *Why trust science?*. Princeton University Press.
+- Oreskes, N. (2021). Ch. 1 from *Why trust science?* Princeton University Press.
 - Dominus, S. (2017) [When the Revolution Came for Amy Cuddy.](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html) New York Times Magazine.
 - O'Dea, R (2021) [The next 10 years.](https://www.youtube.com/watch?v=Ov4lJnZ5px0) Keynote talk at AIMOS.
 
-Optional extra reading: 
+*Optional extra reading*
 
 de Menard, A. (2020) [What's Wrong with Social Science and How to Fix It: Reflections After Reading 2578 Papers.](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 
