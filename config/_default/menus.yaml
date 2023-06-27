@@ -16,11 +16,11 @@ leftnav:
   pageRef: /pages/week-1-response-paper
   weight: 40
 - identifier: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
-  name: 'Week 3: Experiments Cannot be Reproduced by Other Labs'
+  name: 'Week 3: Experiments Cannot Be Reproduced by Other Labs'
   pageRef: /pages/week-3-experiments-cannot-be-reproduced-by-other-labs
   weight: 50
 - identifier: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
-  name: 'Week 4: The Literature is Biased'
+  name: 'Week 4: The Literature Is Biased'
   pageRef: /pages/week-4-the-challenge
   weight: 60
 - identifier: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
