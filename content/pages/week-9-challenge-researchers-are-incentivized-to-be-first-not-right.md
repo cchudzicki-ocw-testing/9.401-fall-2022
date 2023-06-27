@@ -3,12 +3,14 @@ content_type: page
 description: This section includes the challenge, readings, tool, and response paper
   for the week.
 draft: false
-title: 'Week 9 Challenge: Researchers are incentivized to be first, not right'
+title: 'Week 9 Challenge: Researchers Are Incentivized to Be First, Not Right'
 uid: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
 ---
-## Researchers are incentivized to be first, not right
+## The Challenge
 
 Historically, academic institutions have mostly rewarded single actors who are the first to publish important or impactful results. Universities hired and promoted scholars based mostly on their publication records.  Agencies, such as the NIH and NSF, evaluated scholars on their publication records. This system incentivized researchers to exaggerate their individual contributions, and potentially to hoard data and hide mistakes, in the interests of competition. It might also have incentivized individual labs and researchers to work alone, even when collaborations could be better for scientific progress. How can we fix the incentives?
+
+### Readings
 
 - Yarkoni, T. (2018) [It’s not the incentives it’s you](https://www.talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/).
 - A 5-min long [discussion about incentives during promotion and hiring](https://www.youtube.com/watch?v=9AprABg0VH4&t=2471s) from the launch of CORES, center for reproducible research at Stanford; minutes 41-46.
