@@ -5,6 +5,8 @@ draft: false
 title: 'Week 9 Tool: Badges, transparency audits, openness metrics'
 uid: 3e6a722f-5dec-4ed7-962b-516a753f5562
 ---
+## The Tool
+
 *Practical skills activity*
 
 1. Here is the job description for [the open tenure-track position in BCS and Picower.](https://academicjobsonline.org/ajo/jobs/22653) In response to input from last year's class, the language has been updated. What do you think of the current nod to open science? What changes would you recommend?
@@ -12,7 +14,7 @@ uid: 3e6a722f-5dec-4ed7-962b-516a753f5562
 3. Find a journal that uses [Open Science badges](https://www.cos.io/initiatives/badges), and find a paper that has badges. Do the authors include the corresponding badge on their CV or website? 
 4. Find an author in a discipline close to yours who advertises their open science practices on their CV or personal website. 
 
-Useful links and resources
+### Useful Links and Resources
 
 - [Open science badges.](https://www.cos.io/initiatives/badges) And [a discussion on Twitter.](https://twitter.com/lakens/status/1456506610633805829) about whether badges are a good idea or a bad one. 
 - Open Research Funder's group: [Incentivizing the sharing of research outputs through research assessment: a funder implementation blueprint](https://canvas.mit.edu/courses/16735/files/2628370?wrap=1).
