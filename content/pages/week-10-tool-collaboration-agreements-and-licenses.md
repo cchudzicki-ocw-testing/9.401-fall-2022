@@ -5,7 +5,9 @@ draft: false
 title: 'Week 10 Tool: Collaboration Agreements and Licenses'
 uid: ae391099-222b-4c2a-8296-457788495f31
 ---
-## Practical activity assignment
+## The Tool
+
+*Practical activity assignment*
 
 1. Read the MIT VPR's guidelines on [Authorship, Data Ownership, and Training](https://research.mit.edu/integrity-and-compliance/research-misconduct/best-practices-preventing-research-misconduct) and the policies on [Copyright](https://libraries.mit.edu/distinctive-collections/thesis-specs/#copyright) for PhD theses (you may have to scroll down to find it). VPR is responsible for handling any formal disputes about these issues. Is there any information here you didn't know? That you think more people should know? What do you think of these policies?
 2. Check your lab's documentation (lab manual, mentorship agreements). Is there an explicit discussion of how data, tools, scripts etc. can be used? Does it specifically address what should happen after researchers are no longer affiliated with the lab? You can compare to the "useful resources" we have linked below, for reference. Share what you find. 
