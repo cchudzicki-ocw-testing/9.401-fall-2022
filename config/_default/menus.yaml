@@ -32,11 +32,11 @@ leftnav:
   pageRef: /pages/week-6-the-challenge
   weight: 80
 - identifier: 615012bd-8880-4f8a-93d4-05b6a13cc0b6
-  name: 'Week 7: Results Are Only Accessible to Rich Institutions'
+  name: 'Week 7: Results Are Only Accessible to Very Rich Institutions'
   pageRef: /pages/week-7-the-challenge
   weight: 90
 - identifier: 269651c6-9356-4b2a-95e4-b998c7f23752
-  name: 'Week 8: Scientific Papers are Obsolete'
+  name: 'Week 8: Scientific Papers Are Obsolete'
   pageRef: /pages/week-8-the-challenge
   weight: 100
 - identifier: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
