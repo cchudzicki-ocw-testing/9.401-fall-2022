@@ -8,7 +8,7 @@ leftnav:
   pageRef: /pages/calendar
   weight: 20
 - identifier: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
-  name: 'Week 1: What Are we Trying to do Here?'
+  name: 'Week 1: What Are We Trying to Do Here?'
   pageRef: /pages/week-1-the-challenge
   weight: 30
 - identifier: 7787d088-08d1-4e8c-beff-017fb0022ce5
