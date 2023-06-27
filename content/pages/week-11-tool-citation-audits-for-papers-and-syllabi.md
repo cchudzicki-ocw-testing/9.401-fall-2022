@@ -5,6 +5,8 @@ draft: false
 title: 'Week 11 Tool: Citation Audits for Papers and Syllabi'
 uid: aad62042-4c35-4cf4-aafe-4f9b0731cf1a
 ---
+## The Tool
+
 *Practical skills assignment*
 
 1. Do a diversity audit for the syllabus of this class, This is a machine-readable bibliography of the main texts: [Tools\_2022.txt](https://canvas.mit.edu/courses/16735/files/2885854?wrap=1) , and for a bibliography in a paper by you or from your lab.  One option for code and instructions is [here](https://github.com/dalejn/cleanBib) (you may need this file as well because it checks it against a manuscript: [main-1.tex](https://canvas.mit.edu/courses/16735/files/2885857?wrap=1) ) or another version is [here](https://jlsumner.shinyapps.io/syllabustool/).
