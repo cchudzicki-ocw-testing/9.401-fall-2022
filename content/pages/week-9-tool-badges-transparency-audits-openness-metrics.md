@@ -18,7 +18,7 @@ uid: 3e6a722f-5dec-4ed7-962b-516a753f5562
 
 - [Open science badges.](https://www.cos.io/initiatives/badges) And [a discussion on Twitter.](https://twitter.com/lakens/status/1456506610633805829) about whether badges are a good idea or a bad one. 
 - Open Research Funder's group: [Incentivizing the sharing of research outputs through research assessment: a funder implementation blueprint](https://canvas.mit.edu/courses/16735/files/2628370?wrap=1).
-- Moher, D., Naudet, F., Cristea, I. A., Miedema, F., Ioannidis, J. P., & Goodman, S. N. (2018). [Assessing scientists for hiring, promotion, and tenure.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004089&rev=2) *PLoS biology*, *16*(3), e2004089.
+- Moher, D., Naudet, F., Cristea, I. A., et al. (2018). "[Assessing scientists for hiring, promotion, and tenure.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004089&rev=2)" *PLoS biology*, *16*(3), e2004089.
 - [DORA](https://sfdora.org)
 - [Open science at universities](https://osf.io/kgnva/wiki/Universities/), including example language for job applications and policies.
 - The National Academies [Roundtable on Aligning Incentives for Open Science](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science?utm_source=BRDI&utm_campaign=9654e8a95e-EMAIL_CAMPAIGN_2017_08_15_COPY_01&utm_medium=email&utm_term=0_5b187d867a-9654e8a95e-&utm_source=BRDI&utm_campaign=9654e8a95e-EMAIL_CAMPAIGN_2017_08_15_COPY_01&utm_medium=email&utm_term=0_5b187d867a-9654e8a95e-129273345) the [full report](https://canvas.mit.edu/courses/16735/files/2628380?wrap=1) from their most recent workshop. 
@@ -30,5 +30,5 @@ uid: 3e6a722f-5dec-4ed7-962b-516a753f5562
 - Marder, E. (2017). [Scientific Publishing: Beyond scoops to best practices.](https://elifesciences.org/articles/30076) Elife, 6, e30076.
 - Alperin, J. P., Nieves, C. M., Schimanski, L. A., Fischman, G. E., Niles, M. T., & McKiernan, E. C. (2019).[Meta-Research: How significant are the public dimensions of faculty work in review, promotion and tenure documents?.](https://elifesciences.org/articles/42254)ELife, 8, e42254.
 - [Tenure policy at MIT](https://policies.mit.edu/policies-procedures/30-faculty-appointment-promotion-and-tenure-guidelines/32-tenure-process).
-- Singh Chawla, D. (2016). [The unsung heroes of scientific software.](https://www.nature.com/articles/529115a) *Nature News*, *529*(7584), 115.
+- Singh Chawla, D. (2016). "[The unsung heroes of scientific software.](https://www.nature.com/articles/529115a)" *Nature News*, *529*(7584), 115.
 - MIT has a longstanding relationship with an external company called Academic Analytics. But the use of this company's data in academic decision making at other institutions is controversial. Here's the faculty report about the controversy at Rutgers: [Report and Resolution on Use of Academic Analytics](https://nbfc.rutgers.edu/documents/report-and-resolution-use-academic-analytics).
