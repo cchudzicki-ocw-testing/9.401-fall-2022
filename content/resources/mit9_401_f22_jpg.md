@@ -13,7 +13,10 @@ image_metadata:
     \ [MOTION Handbook](https://www.tipconsortium.net/publication/motion-handbook-developing-a-transformative-theory-of-change/)\
     \ \xA9 TIPC. License: CC BY 4.0)."
   credit: "\xA9 Transformative Innovation Policy Consortium (TIPC) https://www.tipconsortium.net/publication/motion-handbook-developing-a-transformative-theory-of-change/"
-  image-alt: ''
+  image-alt: 'Drawing of a landscape with small green trees scattered around, four
+    small gray circles labeled "Niches" extend arrows between a large white pentagon
+    on the left labeled "Old Regime" and  large gray pentagon on the right labeled
+    "Emerging Regime." '
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by/4.0/
 resourcetype: Image
