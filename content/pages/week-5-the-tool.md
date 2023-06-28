@@ -18,7 +18,7 @@ In part 2 of your response paper, describe what you did in fulfilling this activ
 
 Dynamic documents: Sharing data and the code to make the figures all at once:
 
-- [R markdown intro](https://bookdown.org/ejvanholm/WorkingWithData/r-markdown-guide.html)
+- [R markdown intro](https://bookdown.org/ejvanholm/WorkingWithData/r-markdown-guide.html).
 - [RMarkDown Tips](https://indrajeetpatil.github.io/RmarkdownTips/) and [RMarkDown Lessons](https://rmarkdown.rstudio.com/lesson-1.html) (particularly the first 9).
 - [DataColada: Eight things I do to make my open research more findable and understandable](https://datacolada.org/69).
 - Example of [computational notebook](https://colab.research.google.com/github/losc-tutorial/Data_Guide/blob/master/Guide_Notebook.ipynb#scrollTo=xPpkYz4n8Aov) accompanying [paper](https://iopscience.iop.org/article/10.1088/1361-6382/ab685e), A guide to LIGO–Virgo detector noise and extraction of transient gravitational-wave signals, to reproduce all figures. 
@@ -29,15 +29,15 @@ Dynamic documents: Sharing data and the code to make the figures all at once:
 
 Detecting and responding to mistakes and fraud:
 
-- A proposal to replace peer review with "Red Teams". An author gave 'red teams' a financial incentive to find errors in a submission-ready manuscript. Why? [Part 1.](http://www.the100.ci/2020/06/29/red-team-part-1/) What happened? [Part 3](http:// http://www.the100.ci/2020/07/01/red-team-part-3/).
-- [The Buck stops nowhere](https://jamesheathers.medium.com/the-buck-stops-nowhere-8284a57c88c9). Blog about being the "Data police", James Heathers 2017
+- A proposal to replace peer review with "Red Teams." An author gave 'red teams' a financial incentive to find errors in a submission-ready manuscript. [Why? Part 1](http://www.the100.ci/2020/06/29/red-team-part-1/); [What happened? Part 3](http:// http://www.the100.ci/2020/07/01/red-team-part-3/).
+- [The Buck stops nowhere](https://jamesheathers.medium.com/the-buck-stops-nowhere-8284a57c88c9). Blog about being the "Data police." James Heathers, 2017
 - [Evidence of Fraud in an Influential Field Experiment About Dishonesty](https://datacolada.org/98) - Aug 2021, DataColada.
-- [The fight against fake-paper factories that churn out sham science](https://www.nature.com/articles/d41586-021-00733-5). Nature News Feature,      
+- [The fight against fake-paper factories that churn out sham science](https://www.nature.com/articles/d41586-021-00733-5). Nature News Feature,       
     23 March 2021.
 - [https://retractionwatch.com/](https://retractionwatch.com/) (I found the FAQ interesting) & [tool](http://retractiondatabase.org/RetractionSearch.aspx) for searching the retraction watch database.
 - [DataColada: Reducing Fraud in Science](https://datacolada.org/40).
 - Notes from [Computational Research Integrity Day 2021](https://copy-shake-paste.blogspot.com/2021/03/computational-research-integrity-2021.html).
-- Schneider, J., Woods, N. D., Proescholdt, R., Fu, Y., & Team, T. (2021, July 29). [Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project.](https://osf.io/preprints/metaarxiv/ms579/) [https://doi.org/10.31222/osf.io/ms579](https://doi.org/10.31222/osf.io/ms579).
-- Serra-Garcia, M., & Gneezy, U. (2021). Non-replicable [publications are cited more than replicable ones.](https://pubmed.ncbi.nlm.nih.gov/34020944/)*Science advances*, *7*(21), eabd1705.
+- Schneider, J., Woods, N. D., Proescholdt, R., Fu, Y., &  the RISRS Team. 2021. "[Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project.](https://osf.io/preprints/metaarxiv/ms579/)" MetaArXiv. July 29. [doi:10.31222/osf.io/ms579](https://doi.org/10.31222/osf.io/ms579).
+- Serra-Garcia, M., & Gneezy, U. (2021). "[Non-replicable publications are cited more than replicable ones.](https://pubmed.ncbi.nlm.nih.gov/34020944/)" *Science Advances*, *7*(21), eabd1705.
 - [A bibliography of papers about retraction.](https://infoqualitylab.org/projects/risrs2020/bibliography/) 
-- Suelzer, E.M., Deal, J., Hanus, K.L. (2020). [Challenges in discovering the retracted status of an article.](https://www.ideals.illinois.edu/bitstream/handle/2142/108367/Thought%20piece-Challenges%20in%20discovering%20the%20retracted%20status%20of%20an%20article.pdf?sequence=2&isAllowed=y)
+- Suelzer, E.M., Deal, J., Hanus, K.L. (2020). "[Challenges in Identifying the Retracted Status of an Article](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2781501)."*JAMA Netw Open.* 2021;4(6):e2115648. doi:10.1001/jamanetworkopen.2021.15648
