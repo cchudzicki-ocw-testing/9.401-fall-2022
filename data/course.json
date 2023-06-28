@@ -41,8 +41,9 @@
     "website": "tools-for-robust-science"
   },
   "learning_resource_types": [
-    "Written Assignments",
-    "Readings"
+    "Tools",
+    "Readings",
+    "Written Assignments"
   ],
   "site_uid": "89a9f8b9-7bfc-41b7-8a8e-12cfec87c219",
   "site_short_id": "9.401-fall-2022"
