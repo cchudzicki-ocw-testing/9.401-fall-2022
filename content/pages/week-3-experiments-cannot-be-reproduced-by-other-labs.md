@@ -8,18 +8,20 @@ uid: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
 ---
 ## The Challenge
 
-A defining feature of scientific knowledge is that it is replicable: another scientist should be able to repeat the procedure and re-generate the same results. Yet in reality, there are many obstacles to replication. The first obstacle is often: published procedures are not described sufficiently, to allow another scientist to reproduce them. Other obstacles to replication will be discussed in later classes (e.g. experimenter degrees of freedom and publication bias mean that published results offer an inflated estimate of effect sizes; professional incentives for scientists often don't reward reproducing or being reproducible). Today we focus on the challenge of how to make scientific procedures reproducible. Everyone should read the resources under 'everyone;' after that please read the additional readings most relevant to you.
+A defining feature of scientific knowledge is that it is replicable: another scientist should be able to repeat the procedure and re-generate the same results. Yet in reality, there are many obstacles to replication. The first obstacle is often: published procedures are not described sufficiently, to allow another scientist to reproduce them. Other obstacles to replication will be discussed in later classes (e.g. experimenter degrees of freedom and publication bias mean that published results offer an inflated estimate of effect sizes; professional incentives for scientists often don't reward reproducing or being reproducible). Today we focus on the challenge of how to make scientific procedures reproducible.
 
 ### Readings
+
+Everyone should read the resources under 'everyone;' after that please read the additional readings most relevant to you.
 
 #### Everyone
 
 - Nosek, B. A., & Errington, T. M. (2020). "[The best time to argue about what a replication means? Before you do it.](https://www.nature.com/articles/d41586-020-02142-6?sf236176533=1)" *Nature* 583, 518-520.
-- Teytelman, L (2018) "[No more excuses for non-reproducible methods.](https://www.nature.com/articles/d41586-018-06008-w)" *Nature* 560, 411. Alternatively, watch [a recent (2021) talk](https://www.youtube.com/watch?v=pjWlA4JXm64) (the beginning is funny/sad).
+- Teytelman, L. (2018). "[No more excuses for non-reproducible methods.](https://www.nature.com/articles/d41586-018-06008-w)" *Nature* 560, 411. Alternatively, watch [a recent (2021) talk](https://www.youtube.com/watch?v=pjWlA4JXm64) (the beginning is funny/sad).
 
 #### Biological sciences
 
-Errington, T. M. (2019) Slides for ["Reproducibility Project: Cancer Biology, Barriers to Replicability in the Process of Research.](https://canvas.mit.edu/courses/16735/files/2628356?wrap=1)" Talk at the MetaScience Conference.  Alternatively, [watch the talk](https://www.youtube.com/watch?v=KZnOUac3dUw).
+Errington, T. M. (2019). Slides for ["Reproducibility Project: Cancer Biology, Barriers to Replicability in the Process of Research.](https://canvas.mit.edu/courses/16735/files/2628356?wrap=1)" Talk at the MetaScience Conference.  Alternatively, [watch the talk](https://www.youtube.com/watch?v=KZnOUac3dUw).
 
 #### Systems Neuroscience
 
