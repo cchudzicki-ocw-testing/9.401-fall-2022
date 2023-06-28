@@ -36,10 +36,10 @@ Other resources for improving preprint and review systems:
 - Recommendations for how to talk about preprints in public: [Preprints in the Public Eye.](https://asapbio.org/public)
 - A collection of ideas and tools for [Tackling information overload: identifying relevant preprints and reviewers](https://asapbio.org/identifying-relevant-preprints-and-reviewers).
 - One potential tool is a Preprint newsletter, [Front Matter.](https://front-matter.io/newsletter)
-- Besançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., Smout, C., … & Leyrat, C. (2021). [Open science saves lives: lessons from the COVID-19 pandemic.](https://www.biorxiv.org/content/10.1101/2020.08.13.249847v2.full.pdf)*BMC Medical Research Methodology*, *21*(1), 1-18.
+- Besançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., Smout, C., … & Leyrat, C. (2021). "[Open science saves lives: lessons from the COVID-19 pandemic.](https://www.biorxiv.org/content/10.1101/2020.08.13.249847v2.full.pdf)" *BMC Medical Research Methodology*, *21*(1), 1-18.
 
 Practical resources for writing peer reviews:
 
 - [https://plos.org/resource/how-to-write-a-peer-review/](https://plos.org/resource/how-to-write-a-peer-review/).
 - Peer review week 2021: [https://peerreviewweek.wordpress.com.](https://peerreviewweek.wordpress.com)
-- And the [youtube channel from previous years of Peer Review Week](https://www.youtube.com/channel/UCbmYfn4oBs5a084aOu-ph-g)
+- And the [youtube channel from previous years of Peer Review Week](https://www.youtube.com/channel/UCbmYfn4oBs5a084aOu-ph-g).
