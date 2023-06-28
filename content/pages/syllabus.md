@@ -13,7 +13,7 @@ Synchronous participation is required because the class involves substantial dis
 
 ## Prerequisites
 
-None. This course is intended for PhD and M-Eng students. Although based in Brain and Cognitive Science (courses 9, and 6-9), students from other departments are welcome. Auditors at any career stage are welcome but expected to complete readings and assignments (including oral presentations, excluding the final project).
+None. This course is intended for PhD and M-Eng students. Although based in Brain and Cognitive Science (course 9) and Computation and Cognition (course 6-9), students from other departments are welcome. Auditors at any career stage are welcome but expected to complete readings and assignments (including oral presentations, excluding the final project).
 
 ## Description
 
@@ -29,8 +29,7 @@ Each week we will consider one major type of challenge that we face as scientist
 
 Preparation for each week’s class will include:
 
-- Background reading or other materials (e.g. video lectures) that describe the       
-    scope of the challenge. 
+- Background reading or other materials (e.g. video lectures) that describe the scope of the challenge. 
 - An activity or task to develop skills and practical experience with the relevant tools.
 - The weekly preparation work should take 4-6 hours per week.
 - Each meeting of the seminar will have some combination of four components:
