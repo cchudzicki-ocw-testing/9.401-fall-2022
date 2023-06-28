@@ -7,13 +7,13 @@ uid: 89b22769-e5d0-4a18-9eeb-549eb9970eef
 ---
 ## Meeting Times
 
-1 session / week; 3 hours / session.
+1 session / week; 3 hours / session
 
 Synchronous participation is required because the class involves substantial discussion.
 
 ## Prerequisites
 
-This course is intended for PhD and M-Eng students. Although based in Brain and Cognitive Science (courses 9, and 6-9), students from other departments are welcome. Auditors at any career stage are welcome but expected to complete readings and assignments (including oral presentations, excluding the final project).
+None. This course is intended for PhD and M-Eng students. Although based in Brain and Cognitive Science (courses 9, and 6-9), students from other departments are welcome. Auditors at any career stage are welcome but expected to complete readings and assignments (including oral presentations, excluding the final project).
 
 ## Description
 
@@ -29,7 +29,7 @@ Each week we will consider one major type of challenge that we face as scientist
 
 Preparation for each week’s class will include:
 
-- Background reading or other materials (e.g. video lectures) that describe the      
+- Background reading or other materials (e.g. video lectures) that describe the       
     scope of the challenge. 
 - An activity or task to develop skills and practical experience with the relevant tools.
 - The weekly preparation work should take 4-6 hours per week.
@@ -55,3 +55,5 @@ We value mutual respect and trust between teachers and students. I enjoy working
 ## Accommodations
 
 We are committed to creating a community where everyone feels supported. If you have special needs or requests for the course, share these with us on the intake form. If these needs change throughout the term, contact us.
+
+*Note that the information shared here was intended for residential students and is included to provide insight into how the course was conducted at MIT. OCW is not a distance education program, we do not offer instructor interactions, grading, or certification of completion.*
