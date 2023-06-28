@@ -32,9 +32,9 @@ Banga, K., Benson, J., Bonacchi, N., et al. (2022). "[Reproducibility of in-vivo
 
 #### Developmental Science
 
-- Gilmore, R. O., & Adolph, K. E. (2017). "Video can make behavioural science more reproducible." *Nature human behaviour*, *1*(7), 1-2. [https://www.nature.com/articles/s41562-017-0128](https://www.nature.com/articles/s41562-017-0128)
-- Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., … & Yurovsky, D. (2017). [A collaborative approach to infant research: Promoting reproducibility, best practices, and theory‐building](https://onlinelibrary.wiley.com/doi/pdf/10.1111/infa.12182). *Infancy*, *22*(4), 421-435. Or watch this talk by Mike Frank: [https://www.youtube.com/watch?v=6KA69DlsYMI](https://www.youtube.com/watch?v=6KA69DlsYMI).
+- Gilmore, R. O., & Adolph, K. E. (2017). "[Video can make behavioural science more reproducible](https://www.nature.com/articles/s41562-017-0128)." *Nature human behaviour*, *1*(7), 1-2.
+- Frank, M. C., Bergelson, E., Bergmann, C., et al. (2017). "[A collaborative approach to infant research: Promoting reproducibility, best practices, and theory‐building](https://onlinelibrary.wiley.com/doi/pdf/10.1111/infa.12182)." *Infancy*, *22*(4), 421-435. Alternatively, watch [this talk by Mike Frank](https://www.youtube.com/watch?v=6KA69DlsYMI).
 
 #### Social Science
 
-Moody, J. W., Keister, L. A., & Ramos, M. C. (2022). [Reproducibility in the Social Sciences.](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-090221-035954) *Annual Review of Sociology*, *48*. [SO48CH21\_Moody\[001-021\].pdf](https://canvas.mit.edu/courses/16735/files/2733004?wrap=1)
+Moody, J. W., Keister, L. A., & Ramos, M. C. (2022). "[Reproducibility in the Social Sciences.](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-090221-035954)" *Annual Review of Sociology*, *48*.
