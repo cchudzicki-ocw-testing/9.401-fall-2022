@@ -27,7 +27,7 @@ Then provide a critical evaluation of the tool. What is the promise of this data
 - A graphical introduction to [Tidy data, in a twitter thread](https://twitter.com/juliesquid/status/1315710359404113920).
 - [Data management start kit,](https://www.go-fair.org/resources/rdm-starter-kit/) a list of resources and websites collected by gofair.org.
 - [https://orcid.org](https://orcid.org)
-- Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., … & Mons, B. (2016). [The FAIR Guiding Principles for scientific data management and stewardship.](https://www.nature.com/articles/sdata201618?) Scientific data, 3(1), 1-9.
+- Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., et al. (2016). "[The FAIR Guiding Principles for scientific data management and stewardship.](https://www.nature.com/articles/sdata201618?)" *Scientific Data*, 3(1), 1-9.
 
 Example data standards:
 
