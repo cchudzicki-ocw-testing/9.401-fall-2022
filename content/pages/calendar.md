@@ -7,7 +7,7 @@ uid: aa3d9f80-b60a-49e9-a38b-56e6d8291a35
 ---
 ## Weekly Schedule
 
-In this course, students are presented with challenges and discuss various tools developed to address them. Requirements include oral presentations, weekly written response papers, and a final project.
+In this course, students are presented with challenges and discuss various tools developed to address them. Meeting session activities include 1:1 meetings with faculty and peers, a group opening discussion of the week’s challenge, oral presentations, and a collective critical evaluation of the week’s tool. Individual requirements include oral presentations, weekly written response papers, and a final project.
 
 ### Week 1: September 12
 
