@@ -16,22 +16,22 @@ uid: 238a336a-968c-48dc-90ed-7d345f0844d8
 
 ### Useful Links and Resources
 
-- [https://www.socialsciencespace.com/2020/07/seeing-social-science-bites-podcasts-in-a-new-way%E2%80%8B%E2%80%8B/](https://www.socialsciencespace.com/2020/07/seeing-social-science-bites-podcasts-in-a-new-way%E2%80%8B%E2%80%8B/)
+- Social Science Space. (2020). [Seeing Social Science Bites Podcasts in a New Way](https://www.socialsciencespace.com/2020/07/seeing-social-science-bites-podcasts-in-a-new-way%E2%80%8B%E2%80%8B/).
 - [Journal of visualized experiments](https://www.jove.com).
-- [OU Library guide for making a successful video abstrac](https://libraries.ou.edu/content/make-video-abstract-your-research)t
+- [OU Library guide for making a successful video abstract](https://libraries.ou.edu/content/make-video-abstract-your-research).
 - [Repository of many video abstracts](https://wesharescience.com).
-- [The leading strand](https://www.theleadingstrand.org/#intro): mission is to highlight important research by translating it through visual experiences.
-- Professional Science Communication: [https://www.beyondboundscreative.com/](https://www.beyondboundscreative.com/) ; 
-- [https://significantcommunication.eu/.](https://significantcommunication.eu/)
-- [https://twitter.com/econimate](https://twitter.com/econimate) - communicates economics papers in single-frame cartoons. 
-- An example of [Scientific communication as sequential art.](http://worrydream.com/ScientificCommunicationAsSequentialArt/) vs. [Collective dynamics of 'small world' networks.](http://worrydream.com/refs/Watts-CollectiveDynamicsOfSmallWorldNetworks.pdf) original paper.
-- Two-minute papers, a youtube channel for AI: [https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg).
+- [The leading strand](https://www.theleadingstrand.org/#intro): Mission is to highlight important research by translating it through visual experiences.
+- [Professional Science Communication](https://www.beyondboundscreative.com/).
+- [Significant Communication.](https://significantcommunication.eu/)
+- [Econimate](https://twitter.com/econimate): communicates economics papers in single-frame cartoons on Twitter. 
+- An example of [Scientific Communication as Sequential Art.](http://worrydream.com/ScientificCommunicationAsSequentialArt/) vs. [Collective Dynamics of 'Small World' Networks.](http://worrydream.com/refs/Watts-CollectiveDynamicsOfSmallWorldNetworks.pdf) original paper.
+- [Two-Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg), a YouTube channel for AI.
 - [AAAS Communication Toolkit.](https://www.aaas.org/resources/communication-toolkit), a guide to communicating scientific results in different registers and media.
-- [Story Collider](https://www.storycollider.org), true personal stories about science. 
+- [Story Collider](https://www.storycollider.org): true personal stories about science. 
 - [https://scienceblogs.com](https://scienceblogs.com)
-- [Dance your PhD](https://www.science.org/content/article/watch-winners-year-s-dance-your-phd-contest).
+- [Dance your PhD](https://www.science.org/content/article/watch-winners-year-s-dance-your-phd-contest)
 - Super cool communication mechanism: [Nutshell.](https://ncase.me/nutshell-wip/) (h/t Joyce).
 - A (failed?) attempt to incentivize better visualization and explanations: [Distill.](https://distill.pub/2021/distill-hiatus/) (h/t Peng).
-- What not to do: [Scientific diagrams that look like shitposts .](https://twitter.com/scienceshitpost)(h/t Joyce).
-- Katelyn M. Baumer, Juan J. Lopez, Surabi V. Naidu, Sanjana Rajendran, Miguel A. Iglesias, Kathleen M. Carleton, Cheyanne J. Eisenmann, Lillian R. Carter, Bryan F. Shaw. [Visualizing 3D imagery by mouth using candy-like models.](https://www.science.org/doi/10.1126/sciadv.abh0691) Science Advances, 2021; 7 (22): eabh0691.
-- Nwagwu, W.E., & Onyancha, B., [Back to the Beginning — The Journal is Dead, Long Live Science](https://www.researchgate.net/profile/Williams-Nwagwu-2/publication/347522390_36_Back_to_the_beginning/links/5fe0b83c45851553a0df026e/36-Back-to-the-beginning.pdf), The Journal of Academic Librarianship (2015), [http://dx.doi.org/10.1016/j.acalib.2015.06.005.](http://dx.doi.org/10.1016/j.acalib.2015.06.005.)
+- What not to do: [Scientific diagrams that look like shitposts.](https://twitter.com/scienceshitpost) (h/t Joyce).
+- Baumer, K. M., Lopez, J. J., Naidu, S. V., et al. (2021). "[Visualizing 3D imagery by mouth using candy-like models.](https://www.science.org/doi/10.1126/sciadv.abh0691)" *Science Advances* 7(22): eabh0691.
+- Nwagwu, W.E., & Onyancha, B.. (2015). "[Back to the Beginning — The Journal is Dead, Long Live Science](https://www.researchgate.net/profile/Williams-Nwagwu-2/publication/347522390_36_Back_to_the_beginning/links/5fe0b83c45851553a0df026e/36-Back-to-the-beginning.pdf)." *The Journal of Academic Librarianship*. [doi:10.1016/j.acalib.2015.06.005.](http://dx.doi.org/10.1016/j.acalib.2015.06.005.)
