@@ -14,9 +14,9 @@ Most scientific research depends on people working together: from trainees worki
 
 ### Readings
 
-- Gewin, V. (2021) .['We need to talk': ways to prevent collaborations breaking down](https://www.nature.com/articles/d41586-021-01573-z). Nature, 594(7863), 462-463.
-- Gadlin H & Jesssar K. NIH Office of Research Integrity. [Preempting Discord: Prenuptial Agreements for Scientists](https://ori.hhs.gov/preempting-discord-prenuptial-agreements-scientists)
-- A wild case study of a dispute over data ownership that had to be adjudicated by the journal editors: Fox, P. T., Bullmore, E., Bandettini, P. A., & Lancaster, J. L. (2009). [Protecting peer review: Correspondence chronology and ethical analysis regarding Logothetis vs. Shmuel and Leopold.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2715868/) *Human brain mapping*, *30*(2), 347-354.
-- Halchenko, Y. O., & Hanke, M. (2015). [Four aspects to make science open “by design” and not as an after-thought.](https://academic.oup.com/gigascience/article/4/1/s13742-015-0072-7/2707572).*GigaScience*, *4*(1), s13742-015.
-- A podcast episode about collaboration(start at ~9 minutes): [The juice and the squeeze, Ep. 44: Collaborations](https://open.spotify.com/episode/21zhLxwM946cIh4H4lxW87?si=r2P1xkuKSeqm74IDxPgoQQ&nd=1.).
-- Russ Poldrack's lab guide, [section on Intellectual Property](https://poldracklab.github.io/research/intellectual_property.html).
+- Gewin, V. (2021). "['We need to talk': ways to prevent collaborations breaking down](https://www.nature.com/articles/d41586-021-01573-z)." *Nature*, 594(7863), 462-463.
+- Gadlin, H., & Jessar, K. (n.d.). NIH Office of Research Integrity. "[Preempting Discord: Prenuptial Agreements for Scientists](https://ori.hhs.gov/preempting-discord-prenuptial-agreements-scientists)."
+- A wild case study of a dispute over data ownership that had to be adjudicated by the journal editors: Fox, P. T., Bullmore, E., Bandettini, P. A., & Lancaster, J. L. (2009). "[Protecting peer review: Correspondence chronology and ethical analysis regarding Logothetis vs. Shmuel and Leopold.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2715868/)" *Human brain mapping*, *30*(2), 347-354.
+- Halchenko, Y. O., & Hanke, M. (2015). "[Four aspects to make science open 'by design' and not as an after-thought](https://academic.oup.com/gigascience/article/4/1/s13742-015-0072-7/2707572).*GigaScience*, *4*(1), s13742-015.
+- Start at ~9 minutes: [The juice and the squeeze, Ep. 44: "Collaborations](https://open.spotify.com/episode/21zhLxwM946cIh4H4lxW87?si=r2P1xkuKSeqm74IDxPgoQQ&nd=1.)." \[Podcast episode\]
+- Russ Poldrack's lab guide: new [section on Intellectual Property](https://poldracklab.github.io/research/intellectual_property.html).
