@@ -14,10 +14,9 @@ Throughout the history of academia, people who hold marginalized identities, inc
 
 ### Readings
 
-- Matias JN, Lewis Jr N, Hope E (2021) [Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White?](https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/) FiveThirtyEight.
-- [Narrow hiring practices at US universities revealed](https://www.nature.com/articles/d41586-022-03065-0)
-- [Links to an external site.](https://www.nature.com/articles/d41586-022-03065-0)  (if interested, accompanying paper: [https://www.nature.com/articles/s41586-022-05222-x](https://www.nature.com/articles/s41586-022-05222-x))
-- Graduate student [enrollment and time to degree](https://tableau.mit.edu/t/IR/views/LifeSciencesCoalition-MITGraduateStudentData/GradStudents?:isGuestRedirectFromVizportal=y&:embed=y) by department at MIT. 
-- Pownall, M., Talbot, C. V., Henschel, A., Lautarescu, A., Lloyd, K. E., Hartmann, H., … & Siegal, J. (2021). [Navigating Open Science as Early Career Feminist Researchers.](https://journals.sagepub.com/doi/pdf/10.1177/03616843211029255) Psychology of Women Quarterly.
-- Problems with parachute science in the Global South, from [Science Friday](http://sciencefriday.com/segments/parachute-science-problem/).
-- Crew B (2020) [Women and minority researchers have more original ideas, but white men are rewarded faster.](https://www.natureindex.com/news-blog/women-and-minority-researchers-have-more-original-ideas-but-white-men-are-rewarded-faster#.YXvr-ATODjg.twitter) Nature Index.
+- Matias, J. N., Lewis Jr, N., & Hope, E. (2021). "[Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White?](https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/)" FiveThirtyEight.
+- [Narrow hiring practices at US universities revealed](https://www.nature.com/articles/d41586-022-03065-0). (If interested, [the accompanying paper](https://www.nature.com/articles/s41586-022-05222-x).)
+- Graduate student [enrollment and time to degree](https://tableau.mit.edu/t/IR/views/LifeSciencesCoalition-MITGraduateStudentData/GradStudents?:isGuestRedirectFromVizportal=y&:embed=y) by department at MIT.
+- Pownall, M., Talbot, C. V., Henschel, A., et al. (2021). "[Navigating Open Science as Early Career Feminist Researchers.](https://journals.sagepub.com/doi/pdf/10.1177/03616843211029255)" *Psychology of Women Quarterly*.
+- Problems with "parachute science" in the Global South, from [Science Friday](http://sciencefriday.com/segments/parachute-science-problem/).
+- Crew, B. (2020). "[Women and minority researchers have more original ideas, but white men are rewarded faster.](https://www.natureindex.com/news-blog/women-and-minority-researchers-have-more-original-ideas-but-white-men-are-rewarded-faster#.YXvr-ATODjg.twitter)" Nature Index.
