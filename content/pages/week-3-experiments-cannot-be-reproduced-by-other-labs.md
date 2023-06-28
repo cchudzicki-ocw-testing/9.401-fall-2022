@@ -12,14 +12,14 @@ A defining feature of scientific knowledge is that it is replicable: another sci
 
 ### Readings
 
-Everyone should read the resources under 'everyone;' after that please read the additional readings most relevant to you.
+Everyone should read the resources under 'everyone.' After that please read the additional readings most relevant to you.
 
 #### Everyone
 
 - Nosek, B. A., & Errington, T. M. (2020). "[The best time to argue about what a replication means? Before you do it.](https://www.nature.com/articles/d41586-020-02142-6?sf236176533=1)" *Nature* 583, 518-520.
 - Teytelman, L. (2018). "[No more excuses for non-reproducible methods.](https://www.nature.com/articles/d41586-018-06008-w)" *Nature* 560, 411. Alternatively, watch [a recent (2021) talk](https://www.youtube.com/watch?v=pjWlA4JXm64) (the beginning is funny/sad).
 
-#### Biological sciences
+#### Biological Sciences
 
 Errington, T. M. (2019). Slides for ["Reproducibility Project: Cancer Biology, Barriers to Replicability in the Process of Research.](https://canvas.mit.edu/courses/16735/files/2628356?wrap=1)" Talk at the MetaScience Conference.  Alternatively, [watch the talk](https://www.youtube.com/watch?v=KZnOUac3dUw).
 
@@ -27,7 +27,7 @@ Errington, T. M. (2019). Slides for ["Reproducibility Project: Cancer Biology, 
 
 Banga, K., Benson, J., Bonacchi, N., et al. (2022). "[Reproducibility of in-vivo electrophysiological measurements in mice](https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3)." *bioRxiv*.
 
-#### Computational science
+#### Computational Science
 
 - Barton, CM., et al.(2022). "[How to make models more useful.](https://www.pnas.org/doi/10.1073/pnas.2202112119)" PNAS 119(35) e2202112119.
 - Pineau, J. (2020). "[The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)."
