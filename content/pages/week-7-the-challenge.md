@@ -12,10 +12,10 @@ Scientific progress is theoretically a gradual process that involves many resear
 
 ### Readings
 
-- [MIT news release re: ending negotiations with Elsevier](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
+- [MIT news release re: ending negotiations with Elsevier](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611).
 - [Chris Bourg's colloquium talk in BCS](https://www.dropbox.com/s/mq417aqg4f3sgsq/Bourg-04-01-2021.mp4?dl=0), April 2021. Chris Bourg is the director of MIT Libraries and led negotiations between MIT and Elsevier. 
 - [Plan-S:](https://www.coalition-s.org/why-plan-s/) An Alliance of European funders mandating Open Access. The Wikipedia [article](https://en.wikipedia.org/wiki/Plan_S) includes a description of some of the concerns, and why the US refused to join. 
-- [Who's downloading pirated papers? Everyone](https://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone). *Science*.
+- "[Who's downloading pirated papers? Everyone](https://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone)." *Science*.
 - [A short quiz on 'what costs more.'](https://virginia.libwizard.com/f/what-costs-more)
 
 In your response paper, describe something you didn't know about publishing that you learned from these sources, and/or a personal experience you had with the costs and benefits of open-access publishing.
