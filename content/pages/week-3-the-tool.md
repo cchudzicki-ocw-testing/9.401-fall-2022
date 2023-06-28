@@ -9,7 +9,7 @@ uid: 4434ac86-6aab-4ad4-8ceb-dab0c6a28505
 
 *Practical skills assignment*
 
-1. Find a paper in your field that describes an experiment. Use the ARRIVE and CONSORT checklists to evaluate how well they communicate their methods and design decisions. What is missing? [https://arriveguidelines.org/sites/arrive/files/documents/ARRIVE%20Compliance%20Questionnaire.pdf](https://arriveguidelines.org/sites/arrive/files/documents/ARRIVE%20Compliance%20Questionnaire.pdf) Note any trouble you have applying these checklists to research in your area.
+1. Find a paper in your field that describes an experiment. Use [the ARRIVE and CONSORT checklists (PDF)](https://arriveguidelines.org/sites/arrive/files/documents/ARRIVE%20Compliance%20Questionnaire.pdf) to evaluate how well they communicate their methods and design decisions. What is missing? Note any trouble you have applying these checklists to research in your area.
 2. Find the website or tool that is used for sharing detailed/executable protocols in your discipline (see examples below). Ideally, find an existing template similar to an experiment you have done or are planning to do. Spend 30 minutes beginning to create an experimental protocol in this tool. In response paper answer: How far did you get? What was difficult about the task?
 
 In your response paper, describe what you accomplished in these tasks and any snags you hit.
@@ -32,5 +32,5 @@ Then, critically evaluate these tools: will they address the obstacles to repeat
 - Interview with Teytelman where he talks about the obstacles to uptake of protocols: [https://theplosblog.plos.org/2021/03/interview-protocols-io/](https://theplosblog.plos.org/2021/03/interview-protocols-io/).
 - [A slate article about how personal and ugly](https://slate.com/technology/2014/07/replication-controversy-in-psychology-bullying-file-drawer-effect-blog-posts-repligate.html) the controversies about replication can get. This story is about a psychology experiment about moral priming, and the controversy was called "#repligate". 
 - More than twenty years ago there was a very famous controversy about the replicability of findings in genetically identical mice. [Original paper.](https://www.science.org/doi/full/10.1126/science.284.5420.1670?casa_token=D1uKhTqWSyQAAAAA%3AuU3axsIOKE8c1Y3d1b636WguDZHGWwCFw6eaY-SHEIX5ae3VwSIBN-rOg1xhEf3s_QTWEcRvBQQiRQ) [Follow-up paper.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/neu.10173)
-- Freedman, L. P., Cockburn, I. M., & Simcoe, T. S. (2015). [The economics of reproducibility in preclinical research.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002165) *PLoS biology*, *13*(6), e1002165.
+- Freedman, L. P., Cockburn, I. M., & Simcoe, T. S. (2015). "[The economics of reproducibility in preclinical research.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002165)" *PLoS biology*, *13*(6), e1002165.
 - Ashley Thomas' example (in development): [Conducting Online Research With Infants](https://www.protocols.io/view/conducting-online-research-with-infants-byjapuie).
