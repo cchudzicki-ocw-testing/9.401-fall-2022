@@ -22,11 +22,11 @@ uid: ae391099-222b-4c2a-8296-457788495f31
 - National Cancer Institute's [Field Guide to Team Science](https://www.cancer.gov/about-nci/organization/crs/research-initiatives/team-science-field-guide/collaboration-team-science-guide.pdf).
 - UK data service: [Data management roles and responsibilities](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/roles-and-responsibilities/). 
 - Belmont Forum [Step-By-Step User Guide for Building a Successful Data Management Plan](https://bfe-inf.github.io/toolkit/ddomp.html).
-- Aly, M. (2018). [The key to a happy lab life is in the manual.](https://www.nature.com/articles/d41586-018-06167-w) *Nature*, *561*(7721), 7-8.
-- Larivière, V., Pontille, D., & Sugimoto, C. R. (2021). Investigating the division of scientific labor using the Contributor Roles Taxonomy (CRediT). Quantitative Science Studies, 2(1), 111-128.
-- Forscher, P. S., Wagenmakers, E., Coles, N. A., Silan, M. A., Dutra, N. B., Basnight-Brown, D., & IJzerman, H. (2020, May 20). [The Benefits, Barriers, and Risks of Big Team Science](https://psyarxiv.com/2mdxh). PsyArXiv.
-- Making the Right Moves: A Practical Guide to Scientifıc Management for Postdocs and New Faculty, by Burroughs Wellcome Fund Howard Hughes Medical Institute (2006); [Chapter 12: SETTING UP COLLABORATIONS](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2_ch12.pdf).
-- Primack et al (2019) [Co-authors gone bad](https://www.elsevier.com/connect/co-authors-gone-bad-how-to-avoid-publishing-conflicts) – how to avoid publishing conflicts.
+- Aly, M. (2018). "[The key to a happy lab life is in the manual.](https://www.nature.com/articles/d41586-018-06167-w)" *Nature*, *561*(7721), 7-8.
+- Larivière, V., Pontille, D., & Sugimoto, C. R. (2021). "Investigating the division of scientific labor using the Contributor Roles Taxonomy (CRediT)." *Quantitative Science Studies*, 2(1), 111-128.
+- Forscher, P. S., Wagenmakers, E., Coles, N. A., et al. (2020, May 20). "[The Benefits, Barriers, and Risks of Big Team Science](https://psyarxiv.com/2mdxh)." PsyArXiv.
+- Burroughs Wellcome Fund Howard Hughes Medical Institute. (2006). Making the Right Moves: A Practical Guide to Scientific Management for Postdocs and New Faculty; [Chapter 12: SETTING UP COLLABORATIONS](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2_ch12.pdf).
+- Primack, R. B., Cigliano, J. A., & Parsons, C. (2019). [Co-authors gone bad – how to avoid publishing conflicts](https://www.elsevier.com/connect/co-authors-gone-bad-how-to-avoid-publishing-conflicts). Elsevier Editorial.
 
 #### Licensing
 
