@@ -21,7 +21,7 @@ Everyone should read the resources under 'everyone.' After that please read the 
 
 #### Biological Sciences
 
-Errington, T. M. (2019). Slides for ["Reproducibility Project: Cancer Biology, Barriers to Replicability in the Process of Research.](https://canvas.mit.edu/courses/16735/files/2628356?wrap=1)" Talk at the MetaScience Conference.  Alternatively, [watch the talk](https://www.youtube.com/watch?v=KZnOUac3dUw).
+Errington, T. M. (2019). "Reproducibility Project: Cancer Biology, Barriers to Replicability in the Process of Research." Talk at the MetaScience Conference. [Read the slides **or** watch the talk](https://www.metascience2019.org/presentations/tim-errington/).
 
 #### Systems Neuroscience
 
