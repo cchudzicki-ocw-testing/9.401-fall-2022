@@ -16,8 +16,8 @@ Everyone should read the resources under 'everyone.' After that please read the 
 
 #### Everyone
 
-- Nosek, B. A., & Errington, T. M. (2020). "[The best time to argue about what a replication means? Before you do it.](https://www.nature.com/articles/d41586-020-02142-6?sf236176533=1)" *Nature* 583, 518-520.
-- Teytelman, L. (2018). "[No more excuses for non-reproducible methods.](https://www.nature.com/articles/d41586-018-06008-w)" *Nature* 560, 411. Alternatively, watch [a recent (2021) talk](https://www.youtube.com/watch?v=pjWlA4JXm64) (the beginning is funny/sad).
+- Nosek, B. A., & Errington, T. M. (2020). "[The best time to argue about what a replication means? Before you do it](https://www.nature.com/articles/d41586-020-02142-6?sf236176533=1)." *Nature* 583, 518-520.
+- Teytelman, L. (2018). "[No more excuses for non-reproducible methods](https://www.nature.com/articles/d41586-018-06008-w)." *Nature* 560, 411. Alternatively, watch [a recent (2021) talk](https://www.youtube.com/watch?v=pjWlA4JXm64) (the beginning is funny/sad).
 
 #### Biological Sciences
 
@@ -29,7 +29,7 @@ Banga, K., Benson, J., Bonacchi, N., et al. (2022). "[Reproducibility of in-vivo
 
 #### Computational Science
 
-- Barton, CM., et al.(2022). "[How to make models more useful.](https://www.pnas.org/doi/10.1073/pnas.2202112119)" PNAS 119(35) e2202112119.
+- Barton, CM., et al.(2022). "[How to make models more useful](https://www.pnas.org/doi/10.1073/pnas.2202112119)." PNAS 119(35) e2202112119.
 - Pineau, J. (2020). "[The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)."
 
 #### Developmental Science
@@ -39,4 +39,4 @@ Banga, K., Benson, J., Bonacchi, N., et al. (2022). "[Reproducibility of in-vivo
 
 #### Social Science
 
-Moody, J. W., Keister, L. A., & Ramos, M. C. (2022). "[Reproducibility in the Social Sciences.](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-090221-035954)" *Annual Review of Sociology*, *48*.
+Moody, J. W., Keister, L. A., & Ramos, M. C. (2022). "[Reproducibility in the Social Sciences](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-090221-035954)." *Annual Review of Sociology*, *48*.
