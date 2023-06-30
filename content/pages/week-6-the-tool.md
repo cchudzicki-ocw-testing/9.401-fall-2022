@@ -27,7 +27,7 @@ Tools for post-publication peer review or commentary on preprints:
 - [https://peercommunityin.org/](https://peercommunityin.org/)
 - [https://help.osf.io/hc/en-us/articles/360038856834-Endorse-a-Preprint](https://help.osf.io/hc/en-us/articles/360038856834-Endorse-a-Preprint)
 - [https://pubpeer.com/](https://pubpeer.com/)
-- A recent talk by Chris Chambers about registered reports and the tool "Peer Community In:" [https://osf.io/mnp6y/?pid=d4fh5](https://osf.io/mnp6y/?pid=d4fh5).
+- A [recent talk by Chris Chambers about registered reports and the tool "Peer Community In."](https://osf.io/mnp6y/?pid=d4fh5)
 
 Other resources for improving preprint and review systems:
 
@@ -35,8 +35,8 @@ Other resources for improving preprint and review systems:
 - [https://asapbio.org/preprint-reviewer-recruitment-network](https://asapbio.org/preprint-reviewer-recruitment-network)
 - Recommendations for how to talk about preprints in public: [Preprints in the Public Eye.](https://asapbio.org/public)
 - A collection of ideas and tools for [Tackling information overload: identifying relevant preprints and reviewers](https://asapbio.org/identifying-relevant-preprints-and-reviewers).
-- One potential tool is a Preprint newsletter, [Front Matter.](https://front-matter.io/newsletter)
-- Besançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., Smout, C., … & Leyrat, C. (2021). "[Open science saves lives: lessons from the COVID-19 pandemic.](https://www.biorxiv.org/content/10.1101/2020.08.13.249847v2.full.pdf)" *BMC Medical Research Methodology*, *21*(1), 1-18.
+- One potential tool is a Preprint newsletter, [Front Matter](https://front-matter.io/newsletter).
+- Besançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., Smout, C., … & Leyrat, C. (2021). ["Open science saves lives: lessons from the COVID-19 pandemic." (PDF)](https://www.biorxiv.org/content/10.1101/2020.08.13.249847v2.full.pdf) *BMC Medical Research Methodology*, *21*(1), 1-18.
 
 Practical resources for writing peer reviews:
 
