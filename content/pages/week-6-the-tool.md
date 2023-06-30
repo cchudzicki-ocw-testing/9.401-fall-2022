@@ -41,5 +41,5 @@ Other resources for improving preprint and review systems:
 Practical resources for writing peer reviews:
 
 - [https://plos.org/resource/how-to-write-a-peer-review/](https://plos.org/resource/how-to-write-a-peer-review/).
-- Peer review week 2021: [https://peerreviewweek.wordpress.com.](https://peerreviewweek.wordpress.com)
+- Peer review week 2021: [https://peerreviewweek.wordpress.com](https://peerreviewweek.wordpress.com).
 - And the [youtube channel from previous years of Peer Review Week](https://www.youtube.com/channel/UCbmYfn4oBs5a084aOu-ph-g).
