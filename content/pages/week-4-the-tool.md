@@ -23,16 +23,15 @@ In part 2 of your response paper describe what you did, in fulfilling the practi
 
 - [How to pre-register: a Practical Guide](https://osf.io/2vu7m/)
 - [A guide to registered reports](https://www.cos.io/initiatives/registered-reports)
-- Wieschowski, S., Laser, H., Sena, E. S., et al. (2020). "[Attitudes towards animal study registries and their characteristics: An online survey of three cohorts of animal researchers.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226443)" *PloS one*, 15(1), e0226443.
+- Wieschowski, S., Laser, H., Sena, E. S., et al. (2020). "[Attitudes towards animal study registries and their characteristics: An online survey of three cohorts of animal researchers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226443)." *PloS one*, 15(1), e0226443.
 
 Pre-registration:
 
 - [AsPredicted.org](https://aspredicted.org/)
 - [ClinicalTrials.gov](https://clinicaltrials.gov)
-- [OSF.io](https://osf.io/prereg/)
-- [http://socialscienceregistry.org/](http://socialscienceregistry.org/)
+- [https://www.socialscienceregistry.org/](https://www.socialscienceregistry.org/) 
 - [http://osf.io/](http://osf.io/)
-- [http://egap.org/design-registration/](http://egap.org/design-registration/)
+- [https://egap.org/registry/](https://egap.org/registry/) 
 - [http://ridie.3ieimpact.org/](http://ridie.3ieimpact.org/)
 - [https://declaredesign.org/getting-started.html](https://declaredesign.org/getting-started.html) 
 - Preregistration information for [NeurIPS](https://preregister.science/neurips2020.html).
@@ -50,4 +49,4 @@ More arguments in favour of preregistration:
 
 Registered reports:
 
-[A list of journals accepting registered report submissions](www.cos.io/initiatives/registered-reports.).
+[A list of journals accepting registered report submissions](https://www.cos.io/initiatives/registered-reports).
