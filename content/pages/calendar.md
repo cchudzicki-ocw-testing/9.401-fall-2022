@@ -12,7 +12,7 @@ In this course, students are presented with challenges and discuss various tools
 ### Week 1
 
 - Challenge: What are we trying to do here? 
-- Discussion: Reforming science 
+- Discussion: Reforming science.
 
 ### Week 2
 
