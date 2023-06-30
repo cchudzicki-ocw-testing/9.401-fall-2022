@@ -18,7 +18,7 @@ uid: ae391099-222b-4c2a-8296-457788495f31
 #### Collaborations: defining roles and rights
 
 - ManyBabies projects Collaborations - [Definitions, responsibilities, expectations](https://canvas.mit.edu/courses/16735/files/2628372?wrap=1) -- Version 2.0.
-- ManyBabies [Policies on Derived Projects and Presentations](https://manybabies.github.io/derived_presentations/).
+- ManyBabies [Policies on Derived Projects and Presentations.](https://manybabies.github.io/derived_presentations/)
 - National Cancer Institute's [Field Guide to Team Science](https://www.cancer.gov/about-nci/organization/crs/research-initiatives/team-science-field-guide/collaboration-team-science-guide.pdf).
 - UK data service: [Data management roles and responsibilities](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/roles-and-responsibilities/). 
 - Belmont Forum [Step-By-Step User Guide for Building a Successful Data Management Plan](https://bfe-inf.github.io/toolkit/ddomp.html).
