@@ -14,6 +14,6 @@ uid: f8d5440b-64cf-4c7c-83d2-39c9145fde08
 3. Find a journal that uses [Open Science badges](https://www.cos.io/initiatives/badges), and find a paper that has badges. Do the authors include the corresponding badge on their CV or website? 
 4. Find an author in a discipline close to yours who advertises their open science practices on their CV or personal website. 
 
-*Critical evaluation of the tool*. 
+*Critical evaluation of the tool*. What is the promise of these tools in addressing this challenge? What are the biggest obstacles?
 
 *This response paper should be about 1-page long, single-spaced. Total points: 3.*
