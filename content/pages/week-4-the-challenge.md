@@ -12,8 +12,8 @@ A defining feature of scientific knowledge is that it clearly and explicitly des
 
 ### Readings
 
-1. Nosek, B. A., Beck, E. D., Campbell, L., et al. (2019). "[Preregistration is Hard, and Worthwhile.](https://www.sciencedirect.com/science/article/pii/S1364661319301846?casa_token=UxxDmNYIJ3gAAAAA:HBze9ezyCMaB_QumVL7_O7P7Sik2lQzvpJawULyB9VsbAhwAgKK5xQW-wmkGQyr67hgvDNH0CQ)" Trends in cognitive sciences, 23(10), 815-818.
-2. [Watch this talk](https://www.youtube.com/watch?v=Fi3_f9I-YZs) **or** Read this paper: Breznau, N., Rinke, E., Wuttke, A., et al. (2021, March 24). "[Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty.](https://osf.io/preprints/metaarxiv/cd5j9/)" PsyarXiv.
+1. Nosek, B. A., Beck, E. D., Campbell, L., et al. (2019). "[Preregistration is Hard, and Worthwhile](https://www.sciencedirect.com/science/article/pii/S1364661319301846?casa_token=UxxDmNYIJ3gAAAAA:HBze9ezyCMaB_QumVL7_O7P7Sik2lQzvpJawULyB9VsbAhwAgKK5xQW-wmkGQyr67hgvDNH0CQ)." Trends in cognitive sciences, 23(10), 815-818.
+2. [Watch this talk](https://www.youtube.com/watch?v=Fi3_f9I-YZs) **or** Read this paper: Breznau, N., Rinke, E., Wuttke, A., et al. (2022). "[Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty](https://www.pnas.org/doi/10.1073/pnas.2203150119)." PNAS.
 3. Scheel, A. M., Schijen, M. R., & Lakens, D. (2021). "[An Excess of Positive Results: Comparing the Standard Psychology Literature with Registered Reports](https://journals.sagepub.com/doi/10.1177/25152459211007467)." *Advances in Methods and Practices in Psychological Science*, *4*(2), 25152459211007467 **or** [Watch this talk](https://www.youtube.com/watch?v=d_gT2GLH1jM).
 
 When experimenters can choose which data points and analyses to report, based on which produces the "best result" (called experimenter degrees of freedom), the literature gets filled with inflated and overconfident effect sizes. In part 1 of your response paper, describe your experience and perspective on this challenge. Have you encountered an example of this problem? What makes it particularly hard in your area of science?
