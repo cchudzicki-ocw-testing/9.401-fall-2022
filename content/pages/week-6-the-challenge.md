@@ -26,5 +26,5 @@ In sum, peer review is slow, prone to error, potentially biased, and there's no 
 
 Somewhat older resources:
 
-- Vale, R. D. (2015). "[Accelerating scientific publication in biology.](https://www.pnas.org/content/112/44/13439). *Proceedings of the National Academy of Sciences*, 112(44), 13439-13446.
+- Vale, R. D. (2015). "[Accelerating scientific publication in biology](https://www.pnas.org/content/112/44/13439). *Proceedings of the National Academy of Sciences*, 112(44), 13439-13446.
 - Kaiser J. (2017). "[The preprint dilemma](https://www.science.org/doi/full/10.1126/science.357.6358.1344)." *Science*. 357:1344–1349.
