@@ -12,7 +12,7 @@ A defining feature of scientific knowledge is that it clearly and explicitly des
 
 ### Readings
 
-1. Nosek, B. A., Beck, E. D., Campbell, L., et al. (2019). "[Preregistration is hard, and worthwhile.](https://www.sciencedirect.com/science/article/pii/S1364661319301846?casa_token=UxxDmNYIJ3gAAAAA:HBze9ezyCMaB_QumVL7_O7P7Sik2lQzvpJawULyB9VsbAhwAgKK5xQW-wmkGQyr67hgvDNH0CQ)" Trends in cognitive sciences, 23(10), 815-818.
+1. Nosek, B. A., Beck, E. D., Campbell, L., et al. (2019). "[Preregistration is Hard, and Worthwhile.](https://www.sciencedirect.com/science/article/pii/S1364661319301846?casa_token=UxxDmNYIJ3gAAAAA:HBze9ezyCMaB_QumVL7_O7P7Sik2lQzvpJawULyB9VsbAhwAgKK5xQW-wmkGQyr67hgvDNH0CQ)" Trends in cognitive sciences, 23(10), 815-818.
 2. [Watch this talk](https://www.youtube.com/watch?v=Fi3_f9I-YZs) **or** Read this paper: Breznau, N., Rinke, E., Wuttke, A., et al. (2021, March 24). "[Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty.](https://osf.io/preprints/metaarxiv/cd5j9/)" PsyarXiv.
 3. Scheel, A. M., Schijen, M. R., & Lakens, D. (2021). "[An Excess of Positive Results: Comparing the Standard Psychology Literature with Registered Reports](https://journals.sagepub.com/doi/10.1177/25152459211007467)." *Advances in Methods and Practices in Psychological Science*, *4*(2), 25152459211007467 **or** [Watch this talk](https://www.youtube.com/watch?v=d_gT2GLH1jM).
 
