@@ -24,7 +24,7 @@ Then give your critical evaluation of Open Access publishing models. How will th
 - [Open-access publisher PLOS pushes to extend clout beyond biomedicine](https://www.nature.com/articles/d41586-020-01907-3). Nature NEWS, May 2021.
 - [Do you obey public-access mandates? Google Scholar is watching](https://www.nature.com/articles/d41586-021-00873-8). | Nature NEWS, March 2021.
 - [How Unpaywall is transforming open science](https://www.nature.com/articles/d41586-018-05968-3). | Nature NEWS, April 2018.
-- [https://unpaywall.org.](https://unpaywall.org)
+- [https://unpaywall.org](https://unpaywall.org)
 - [My love-hate of Sci-Hub](https://www.science.org/doi/full/10.1126/science.aaf9419). | Science, Marcia McNutt.
 - Nature's [Guide to Plan-S](https://www.nature.com/articles/d41586-021-00883-6). April 2021.
 - [Data visualization](http://roarmap.eprints.org/dataviz.html): international open access policies and change over time.
