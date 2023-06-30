@@ -18,7 +18,7 @@ Scientists communicate findings through publications in peer-reviewed journals.�
 - A Twitter thread on [evidence of status bias in peer review](https://twitter.com/BrianNosek/status/1568270176847552512).
 - A humorous approach to problems with peer review: [Shit My Reviewers Say \[Tumblr page\]](https://shitmyreviewerssay.tumblr.com/).
 - Bengio, Y. (2020, February 26). "[Time to rethink the publication process in machine learning](https://yoshuabengio.org/2020/02/26/time-to-rethink-the-publication-process-in-machine-learning/)." \[Blog post\]
-- By contrast, an example of the spread of false information in non-peer-reviewed sources is [the infamous Yan report.](https://www.washingtonpost.com/technology/2021/02/12/china-covid-misinformation-li-meng-yan/)
+- By contrast, an example of the spread of false information in non-peer-reviewed sources is [the infamous Yan report](https://www.washingtonpost.com/technology/2021/02/12/china-covid-misinformation-li-meng-yan/).
 - Read over eLife's description of their 'new model': \[[Link to eLife's description](https://elifesciences.org/inside-elife/54d63486/elife-s-new-model-changing-the-way-you-share-your-research)\] and about their assessment model: \[[Link to eLife's assessment model](https://elifesciences.org/inside-elife/db24dd46/elife-s-new-model-what-is-an-elife-assessment)\].
 - Look through [Preprints and Rapid Communication of COVID-19 research](https://asapbio.org/preprints-and-covid-19), a collection of articles and resources by ASAP Bio. 
 
