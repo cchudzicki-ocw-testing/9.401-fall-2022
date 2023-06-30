@@ -37,6 +37,6 @@ Detecting and responding to mistakes and fraud:
 - [DataColada: Reducing Fraud in Science](https://datacolada.org/40).
 - Notes from [Computational Research Integrity Day 2021](https://copy-shake-paste.blogspot.com/2021/03/computational-research-integrity-2021.html).
 - Schneider, J., Woods, N. D., Proescholdt, R., Fu, Y., &  the RISRS Team. 2021. "[Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project](https://osf.io/preprints/metaarxiv/ms579/)." MetaArXiv. July 29. [doi:10.31222/osf.io/ms579](https://doi.org/10.31222/osf.io/ms579).
-- Serra-Garcia, M., & Gneezy, U. (2021). "[Non-replicable publications are cited more than replicable ones.](https://pubmed.ncbi.nlm.nih.gov/34020944/)" *Science Advances*, *7*(21), eabd1705.
+- Serra-Garcia, M., & Gneezy, U. (2021). "[Non-replicable publications are cited more than replicable ones](https://pubmed.ncbi.nlm.nih.gov/34020944/)." *Science Advances*, *7*(21), eabd1705.
 - [A bibliography of papers about retraction](https://infoqualitylab.org/projects/risrs2020/bibliography/).
 - Suelzer, E.M., Deal, J., Hanus, K.L. (2020). "[Challenges in Identifying the Retracted Status of an Article](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2781501)."*JAMA Netw Open.* 2021;4(6):e2115648. [doi:10.1001/jamanetworkopen.2021.15648](https://doi.org/10.1001/jamanetworkopen.2021.15648)
