@@ -23,6 +23,6 @@ Additional/optional useful references:
 - Downs, R. R. (2021). "[Improving Opportunities for New Value of Open Data: Assessing and Certifying Research Data Repositories](https://datascience.codata.org/article/10.5334/dsj-2021-001/)."*Data Science Journal*, *20*(1).
 - Soderberg, C. K. (2018). "[Using OSF to share data: A step-by-step guide](https://journals.sagepub.com/doi/10.1177/2515245918757689)." *Advances in Methods and Practices in Psychological Science*, 1(1), 115-120.
 - Ferguson, A. R., Nielson, J. L., Cragin, M. H., Bandrowski, A. E., & Martone, M. E. (2014). "Big data from small data: Data-sharing in the 'long tail' of neuroscience." *Nature Neuroscience*, 17(11), 1442-1447.
-- Markiewicz, C. J., Gorgolewski, K. J., Feingold, F., et al. (2021). "[The OpenNeuro resource for sharing of neuroscience data.](https://elifesciences.org/articles/71774). *ELife*, *10*, e71774.
+- Markiewicz, C. J., Gorgolewski, K. J., Feingold, F., et al. (2021). "[The OpenNeuro resource for sharing of neuroscience data](https://elifesciences.org/articles/71774). *ELife*, *10*, e71774.
 
 In your response paper describe, for example, specific examples of when and why data reuse is important for your science, something you learned from the readings you didn't already know, and/or a personal experience you've had that really brought home the challenge of data sharing and management.
