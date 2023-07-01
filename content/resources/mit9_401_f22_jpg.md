@@ -6,17 +6,13 @@ file: /courses/9-401-tools-for-robust-science-fall-2022/mit9_401_f22.jpg
 file_size: ''
 file_type: image/jpeg
 image_metadata:
-  caption: "Artistic visualizations help to make complex concepts in social sciences\
-    \ accessible to a wider audience. In the MOTION project\u2019s multi-level perspective\
-    \ (MLP), change in an existing regime emerges from innovations at the niche level\
-    \ which challenge the dominant practice within the existing landscape. (Source:\
-    \ [MOTION Handbook](https://www.tipconsortium.net/publication/motion-handbook-developing-a-transformative-theory-of-change/)\
-    \ \xA9 TIPC. License: CC BY 4.0)."
-  credit: "\xA9 Transformative Innovation Policy Consortium (TIPC) https://www.tipconsortium.net/publication/motion-handbook-developing-a-transformative-theory-of-change/"
-  image-alt: 'Drawing of a landscape with small green trees scattered around, four
-    small gray circles labeled "Niches" extend arrows between a large white pentagon
-    on the left labeled "Old Regime" and  large gray pentagon on the right labeled
-    "Emerging Regime." '
+  caption: 'Open Science Badges acknowledge open practices and serve as incentives
+    for researchers to share data, share materials, and to preregister. (Open Science
+    Badges by the [Center for Open Science](https://www.cos.io/initiatives/badges).
+    License: CC BY-ND.'
+  credit: ''
+  image-alt: Three six-sided badges, the red one on top has a checkmark labeled "xx,"
+    the green in the lower left "xx," and yellow on the lower right "xx."
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by/4.0/
 resourcetype: Image
