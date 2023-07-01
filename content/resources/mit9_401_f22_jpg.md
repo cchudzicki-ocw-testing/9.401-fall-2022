@@ -6,13 +6,15 @@ file: /courses/9-401-tools-for-robust-science-fall-2022/mit9_401_f22.jpg
 file_size: ''
 file_type: image/jpeg
 image_metadata:
-  caption: 'Open Science Badges acknowledge open practices and serve as incentives
-    for researchers to share data, share materials, and to preregister. (Open Science
-    Badges by the [Center for Open Science](https://www.cos.io/initiatives/badges).
+  caption: 'Open science badges acknowledge open practices and serve as incentives
+    to move the research culture to more open, transparent, and reproducible practices
+    across the entire research system. (Badges by the [Center for Open Science](https://www.cos.io/initiatives/badges).
     License: CC BY-ND.'
   credit: ''
-  image-alt: Three six-sided badges, the red one on top has a checkmark labeled "xx,"
-    the green in the lower left "xx," and yellow on the lower right "xx."
+  image-alt: Three six-sided badges, the top red one on top is labeled "preregistered"
+    with a checkmark symbol in the center, a blue on the lower left has a bar graph
+    labeled "open data," and on the lower right a yellow badge with an open box icon
+    in the center is labeled "open materials."
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by/4.0/
 resourcetype: Image
