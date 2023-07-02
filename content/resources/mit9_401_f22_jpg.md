@@ -16,7 +16,7 @@ image_metadata:
   credit: https://www.cos.io/blog/badges-for-open-research-practices-available-on-osf-registrations
   image-alt: 'Five six-sided badges in solid colors with a simple icon in the center
     representing the feature, blue for open data, green for open code, orange for
-    open materials, purple for open , and brown representing open data, open code, '
+    open materials, purple for papers, and brown for supplements., '
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc/4.0/
 resourcetype: Image
