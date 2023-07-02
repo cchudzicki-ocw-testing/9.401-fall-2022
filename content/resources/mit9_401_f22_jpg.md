@@ -8,9 +8,11 @@ file_type: image/jpeg
 image_metadata:
   caption: 'Open science badges acknowledge the adoption of open practices and signal
     the move toward more open, transparent, and reproducible practices across the
-    entire research system. For more on this topic, see Week 9. (Badge images by [Center
-    for Open Science](https://www.cos.io/blog/badges-for-open-research-practices-available-on-osf-registrations).
-    License: CC BY-NC-SA.'
+    entire research system. The badges shown above represent open data (blue), open
+    materials (orange), open code (green), papers (purple), and supplements (brown).
+    Detailed descriptions of each badge can be found on [the Center for Open Science
+    blog](https://www.cos.io/blog/badges-for-open-research-practices-available-on-osf-registrations).
+    (Credit: [Center for Open Science](https://www.cos.io/). License: CC BY-NC-SA.)'
   credit: https://www.cos.io/blog/badges-for-open-research-practices-available-on-osf-registrations
   image-alt: 'Five six-sided badges in solid colors with a simple icon in the center
     representing the feature, blue for open data, green for open code, orange for
