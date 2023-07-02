@@ -13,7 +13,7 @@ image_metadata:
     Detailed descriptions of each badge can be found on [the Center for Open Science
     blog](https://www.cos.io/blog/badges-for-open-research-practices-available-on-osf-registrations).
     (Credit: [Center for Open Science](https://www.cos.io/). License: CC BY-NC-SA.)'
-  credit: https://www.cos.io/blog/badges-for-open-research-practices-available-on-osf-registrations
+  credit: ''
   image-alt: 'Five six-sided badges in solid colors with a simple icon in the center
     representing the feature, blue for open data, green for open code, orange for
     open materials, purple for papers, and brown for supplements., '
