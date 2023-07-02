@@ -9,8 +9,7 @@ image_metadata:
   caption: 'Open science badges acknowledge the adoption of open practices and signal
     the move toward more open, transparent, and reproducible practices across the
     entire research system. The badges above award Open Data (blue), Open Materials
-    (orange), Open Analytic Code (green), Papers (purple), and Supplements (brown);
-    [more details about open science badges](https://www.cos.io/blog/badges-for-open-research-practices-available-on-osf-registrations).
+    (orange), Open Analytic Code (green), Papers (purple), and Supplements (brown).
     (Credit: [Center for Open Science](https://www.cos.io/blog/badges-for-open-research-practices-available-on-osf-registrations).
     License: CC BY-NC-SA.)'
   credit: ''
