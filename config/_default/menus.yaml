@@ -60,11 +60,6 @@ leftnav:
   pageRef: /pages/week-1-response-paper2
   parent: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
   weight: 10
-- identifier: 9a818699-b251-437d-9cd5-c9d99ab85a33
-  name: 'Week 1: Oral Presentations'
-  pageRef: /pages/week-1-oral-presentations
-  parent: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
-  weight: 20
 - identifier: 6f6af34a-693e-4fbe-840c-e2b2a24644a0
   name: 'Week 2 Tool: FAIR Data Sharing'
   pageRef: /pages/week-2-the-tool
