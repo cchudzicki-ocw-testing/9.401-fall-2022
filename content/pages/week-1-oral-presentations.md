@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: This page describes the oral presentation requirement for the class.
-draft: false
+draft: true
 title: 'Week 1: Oral Presentations'
 uid: 9a818699-b251-437d-9cd5-c9d99ab85a33
 ---
